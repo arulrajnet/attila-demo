@@ -4,91 +4,91 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://attila-demo.arulrajnet.github.io/</loc>
-<lastmod>2016-09-18T01:09:08-00:00</lastmod>
+<loc>https://arulrajnet.github.io/attila-demo/</loc>
+<lastmod>2016-09-18T01:15:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://attila-demo.arulrajnet.github.io/archives.html</loc>
-<lastmod>2016-09-18T01:09:08-00:00</lastmod>
+<loc>https://arulrajnet.github.io/attila-demo/archives.html</loc>
+<lastmod>2016-09-18T01:15:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://attila-demo.arulrajnet.github.io/tags.html</loc>
-<lastmod>2016-09-18T01:09:08-00:00</lastmod>
+<loc>https://arulrajnet.github.io/attila-demo/tags.html</loc>
+<lastmod>2016-09-18T01:15:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://attila-demo.arulrajnet.github.io/2015/11/featured-images-for-the-detail-view.html</loc>
+<loc>https://arulrajnet.github.io/attila-demo/2015/11/featured-images-for-the-detail-view.html</loc>
 <lastmod>2015-11-20T21:54:00+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://attila-demo.arulrajnet.github.io/2015/11/headlines-blockquotes-images.html</loc>
+<loc>https://arulrajnet.github.io/attila-demo/2015/11/headlines-blockquotes-images.html</loc>
 <lastmod>2015-11-01T01:25:00+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://attila-demo.arulrajnet.github.io/2015/11/lists-and-tables.html</loc>
+<loc>https://arulrajnet.github.io/attila-demo/2015/11/lists-and-tables.html</loc>
 <lastmod>2015-11-01T01:12:00+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://attila-demo.arulrajnet.github.io/2015/11/code-blocks.html</loc>
+<loc>https://arulrajnet.github.io/attila-demo/2015/11/code-blocks.html</loc>
 <lastmod>2015-11-01T00:45:00+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://attila-demo.arulrajnet.github.io/2015/11/welcome-to-ghost.html</loc>
+<loc>https://arulrajnet.github.io/attila-demo/2015/11/welcome-to-ghost.html</loc>
 <lastmod>2015-11-01T00:30:00+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://attila-demo.arulrajnet.github.io/category/misc</loc>
+<loc>https://arulrajnet.github.io/attila-demo/category/misc</loc>
 <lastmod>2015-11-20T21:54:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://attila-demo.arulrajnet.github.io/tag/getting-started</loc>
+<loc>https://arulrajnet.github.io/attila-demo/tag/getting-started</loc>
 <lastmod>2015-11-01T00:30:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://attila-demo.arulrajnet.github.io/tag/cupcake</loc>
+<loc>https://arulrajnet.github.io/attila-demo/tag/cupcake</loc>
 <lastmod>2015-11-01T01:25:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://attila-demo.arulrajnet.github.io/tag/general</loc>
+<loc>https://arulrajnet.github.io/attila-demo/tag/general</loc>
 <lastmod>2015-11-20T21:54:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://attila-demo.arulrajnet.github.io/author/zutrinken</loc>
+<loc>https://arulrajnet.github.io/attila-demo/author/zutrinken</loc>
 <lastmod>2015-11-20T21:54:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
