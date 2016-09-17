@@ -109,8 +109,8 @@ COLOR_SCHEME_CSS = 'github.css'
 AUTHORS_BIO = {
   "zutrinken": {
     "name": "Zutrinken",
-    "cover": "/assets/images/avatar.png",
-    "image": "/assets/images/avatar.png",
+    "cover": "https://arulrajnet.github.io/attila-demo/assets/images/avatar.png",
+    "image": "https://arulrajnet.github.io/attila-demo/assets/images/avatar.png",
     "website": "http://blog.arulraj.net",
     "location": "Chennai",
     "bio": "This is the place for a small biography with max 200 characters. Well, now 100 are left. Cool, hugh?"
