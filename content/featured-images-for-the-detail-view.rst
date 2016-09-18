@@ -4,6 +4,7 @@ Featured Images for the detail View
 :author: zutrinken
 :tags: General
 :slug: featured-images-for-the-detail-view
+:header_cover: /assets/images/4BQLVS45VD.jpg
 
 Chocolate tiramisu pastry cotton candy sesame snaps. Dessert cake
 chocolate bar sugar plum bonbon marshmallow lollipop toffee soufflé.
@@ -11,6 +12,4 @@ Donut caramels chocolate bar. Oat cake cookie cheesecake donut. Jelly-o
 marzipan cake. Sweet ice cream jujubes. Marzipan sugar plum pastry
 chocolate bar fruitcake. Lollipop lollipop brownie.
 
-.. raw:: html
 
-   </p>
