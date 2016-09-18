@@ -47,7 +47,8 @@ PAGINATION_PATTERNS = (
 STATIC_PATHS = ['assets']
 
 EXTRA_PATH_METADATA = {
-    'assets/robots.txt': {'path': 'robots.txt'}
+    'assets/robots.txt': {'path': 'robots.txt'},
+    'assets/CNAME': {'path': 'CNAME'}
 }
 
 # Post and Pages path 
@@ -97,6 +98,12 @@ SITEMAP = {
         'pages': 'monthly'
     }
 }
+
+# Comments
+DISQUS_SITENAME = "attilademo"
+
+# Analytics
+GOOGLE_ANALYTICS = "UA-3546274-12"
 
 THEME = 'my-pelican-themes/attila'
 

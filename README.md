@@ -1,7 +1,7 @@
 Attila Demo
 ----------------
 
-This is the demo blog of theme [attila](http://sdf/). Blog powered by pelican
+This is the demo blog of theme [attila](https://github.com/arulrajnet/attila). Blog powered by pelican, hosted on [https://arulrajnet.github.io/attila-demo](https://arulrajnet.github.io/attila-demo)
 
 
 ### Setup
@@ -45,7 +45,7 @@ pelican -s pelicanconf.py -t my-pelican-themes/attila/
 ```
 
 
-Then visit http://localhost:8000
+Then visit [http://localhost:8000](http://localhost:8000)
 
 **To publish**
 
