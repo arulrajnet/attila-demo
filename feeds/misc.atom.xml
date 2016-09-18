@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Attila Demo</title><link href="https://arulrajnet.github.io/attila-demo/" rel="alternate"></link><link href="https://arulrajnet.github.io/attila-demo/feeds/misc.atom.xml" rel="self"></link><id>https://arulrajnet.github.io/attila-demo/</id><updated>2015-11-20T21:54:00+05:30</updated><entry><title>Featured Images for the detail View</title><link href="https://arulrajnet.github.io/attila-demo/2015/11/featured-images-for-the-detail-view.html" rel="alternate"></link><published>2015-11-20T21:54:00+05:30</published><author><name>zutrinken</name></author><id>tag:arulrajnet.github.io,2015-11-20:attila-demo/2015/11/featured-images-for-the-detail-view.html</id><summary type="html">&lt;p&gt;Chocolate tiramisu pastry cotton candy sesame snaps. Dessert cake
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Attila Demo</title><link href="http://attila.demo.arulraj.net/" rel="alternate"></link><link href="http://attila.demo.arulraj.net/feeds/misc.atom.xml" rel="self"></link><id>http://attila.demo.arulraj.net/</id><updated>2015-11-20T21:54:00+05:30</updated><entry><title>Featured Images for the detail View</title><link href="http://attila.demo.arulraj.net/2015/11/featured-images-for-the-detail-view.html" rel="alternate"></link><published>2015-11-20T21:54:00+05:30</published><author><name>zutrinken</name></author><id>tag:attila.demo.arulraj.net,2015-11-20:2015/11/featured-images-for-the-detail-view.html</id><summary type="html">&lt;p&gt;Chocolate tiramisu pastry cotton candy sesame snaps. Dessert cake
 chocolate bar sugar plum bonbon marshmallow lollipop toffee soufflé.
 Donut caramels chocolate bar. Oat cake cookie cheesecake donut. Jelly-o
 marzipan cake. Sweet ice cream jujubes. Marzipan sugar plum pastry
 chocolate bar fruitcake. Lollipop lollipop brownie.&lt;/p&gt;
-&lt;/p&gt;</summary><category term="General"></category></entry><entry><title>Headlines, Blockquotes &amp; Images</title><link href="https://arulrajnet.github.io/attila-demo/2015/11/headlines-blockquotes-images.html" rel="alternate"></link><published>2015-11-01T01:25:00+05:30</published><author><name>zutrinken</name></author><id>tag:arulrajnet.github.io,2015-11-01:attila-demo/2015/11/headlines-blockquotes-images.html</id><summary type="html">&lt;p&gt;Chocolate tiramisu pastry cotton candy sesame snaps. Dessert cake
+&lt;/p&gt;</summary><category term="General"></category></entry><entry><title>Headlines, Blockquotes &amp; Images</title><link href="http://attila.demo.arulraj.net/2015/11/headlines-blockquotes-images.html" rel="alternate"></link><published>2015-11-01T01:25:00+05:30</published><author><name>zutrinken</name></author><id>tag:attila.demo.arulraj.net,2015-11-01:2015/11/headlines-blockquotes-images.html</id><summary type="html">&lt;p&gt;Chocolate tiramisu pastry cotton candy sesame snaps. Dessert cake
 chocolate bar sugar plum bonbon marshmallow lollipop toffee soufflé.
 Donut caramels chocolate bar. Oat cake cookie cheesecake donut. Jelly-o
 marzipan cake. Sweet ice cream jujubes. Marzipan sugar plum pastry
@@ -13,7 +13,7 @@ chocolate bar fruitcake. Lollipop lollipop brownie.&lt;/p&gt;
 &lt;h2&gt;Headline One&lt;/h2&gt;
 &lt;/p&gt;&lt;p&gt;Topping chocolate bar liquorice&lt;/p&gt;
 &lt;/p&gt;&lt;/div&gt;
-</summary><category term="General"></category><category term="Cupcake"></category></entry><entry><title>Lists and Tables</title><link href="https://arulrajnet.github.io/attila-demo/2015/11/lists-and-tables.html" rel="alternate"></link><published>2015-11-01T01:12:00+05:30</published><author><name>zutrinken</name></author><id>tag:arulrajnet.github.io,2015-11-01:attila-demo/2015/11/lists-and-tables.html</id><summary type="html">&lt;p&gt;Jelly beans pudding oat cake pie. Cupcake cupcake oat cake candy lemon
+</summary><category term="General"></category><category term="Cupcake"></category></entry><entry><title>Lists and Tables</title><link href="http://attila.demo.arulraj.net/2015/11/lists-and-tables.html" rel="alternate"></link><published>2015-11-01T01:12:00+05:30</published><author><name>zutrinken</name></author><id>tag:attila.demo.arulraj.net,2015-11-01:2015/11/lists-and-tables.html</id><summary type="html">&lt;p&gt;Jelly beans pudding oat cake pie. Cupcake cupcake oat cake candy lemon
 drops marzipan icing. Dessert topping croissant fruitcake sesame snaps.
 Cotton candy sweet danish sweet roll sweet sugar plum donut. Bear claw
 gingerbread cake donut chocolate bar topping cake fruitcake fruitcake.&lt;/p&gt;
@@ -23,14 +23,14 @@ gingerbread cake donut chocolate bar topping cake fruitcake fruitcake.&lt;/p&gt;
 &lt;li&gt;Jelly beans pudding oat cake pie.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/p&gt;&lt;/div&gt;
-</summary><category term="General"></category></entry><entry><title>Code Blocks</title><link href="https://arulrajnet.github.io/attila-demo/2015/11/code-blocks.html" rel="alternate"></link><published>2015-11-01T00:45:00+05:30</published><author><name>zutrinken</name></author><id>tag:arulrajnet.github.io,2015-11-01:attila-demo/2015/11/code-blocks.html</id><summary type="html">&lt;p&gt;Wafer gummies lollipop pastry cotton candy chocolate cake sweet roll.
+</summary><category term="General"></category></entry><entry><title>Code Blocks</title><link href="http://attila.demo.arulraj.net/2015/11/code-blocks.html" rel="alternate"></link><published>2015-11-01T00:45:00+05:30</published><author><name>zutrinken</name></author><id>tag:attila.demo.arulraj.net,2015-11-01:2015/11/code-blocks.html</id><summary type="html">&lt;p&gt;Wafer gummies lollipop pastry cotton candy chocolate cake sweet roll.
 Cupcake caramels brownie gummi bears. Sweet fruitcake chocolate bear
 claw cake liquorice bear claw lemon drops cheesecake. Sweet sesame snaps
 pie halvah.&lt;/p&gt;
 &lt;/p&gt;&lt;pre class="literal-block"&gt;
 function codestyling() {    $('pre code').each(function(i, e) {        var code = $(this);        var lines = code.html().split(/\n/).length;
 &lt;/pre&gt;
-&lt;/p&gt;</summary><category term="General"></category></entry><entry><title>Welcome to Ghost</title><link href="https://arulrajnet.github.io/attila-demo/2015/11/welcome-to-ghost.html" rel="alternate"></link><published>2015-11-01T00:30:00+05:30</published><author><name>zutrinken</name></author><id>tag:arulrajnet.github.io,2015-11-01:attila-demo/2015/11/welcome-to-ghost.html</id><summary type="html">&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to
+&lt;/p&gt;</summary><category term="General"></category></entry><entry><title>Welcome to Ghost</title><link href="http://attila.demo.arulraj.net/2015/11/welcome-to-ghost.html" rel="alternate"></link><published>2015-11-01T00:30:00+05:30</published><author><name>zutrinken</name></author><id>tag:attila.demo.arulraj.net,2015-11-01:2015/11/welcome-to-ghost.html</id><summary type="html">&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to
 the Ghost editor and get you started. You can manage your content by
 signing in to the admin area at &lt;tt class="docutils literal"&gt;&amp;lt;your blog &lt;span class="pre"&gt;URL&amp;gt;/ghost/&lt;/span&gt;&lt;/tt&gt;. When you
 arrive, you can select this post from a list&lt;/p&gt;
