@@ -128,10 +128,21 @@
 Cupcake caramels brownie gummi bears. Sweet fruitcake chocolate bear
 claw cake liquorice bear claw lemon drops cheesecake. Sweet sesame snaps
 pie halvah.</p>
-</p><pre class="literal-block">
-function codestyling() {    $('pre code').each(function(i, e) {        var code = $(this);        var lines = code.html().split(/\n/).length;
-</pre>
-</p>
+<div class="highlight"><pre><span></span><span class="kd">function</span> <span class="nx">codestyling</span><span class="p">()</span> <span class="p">{</span>
+    <span class="nx">$</span><span class="p">(</span><span class="s1">&#39;pre code&#39;</span><span class="p">).</span><span class="nx">each</span><span class="p">(</span><span class="kd">function</span><span class="p">(</span><span class="nx">i</span><span class="p">,</span> <span class="nx">e</span><span class="p">)</span> <span class="p">{</span>
+        <span class="kd">var</span> <span class="nx">code</span> <span class="o">=</span> <span class="nx">$</span><span class="p">(</span><span class="k">this</span><span class="p">);</span>
+        <span class="kd">var</span> <span class="nx">lines</span> <span class="o">=</span> <span class="nx">code</span><span class="p">.</span><span class="nx">html</span><span class="p">().</span><span class="nx">split</span><span class="p">(</span><span class="sr">/\n/</span><span class="p">).</span><span class="nx">length</span><span class="p">;</span>
+        <span class="kd">var</span> <span class="nx">numbers</span> <span class="o">=</span> <span class="p">[];</span>
+        <span class="k">for</span> <span class="p">(</span><span class="nx">i</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span> <span class="nx">i</span> <span class="o">&lt;</span> <span class="nx">lines</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+            <span class="nx">numbers</span> <span class="o">+=</span> <span class="s1">&#39;&lt;span class=&quot;line&quot;&gt;&#39;</span> <span class="o">+</span> <span class="nx">i</span> <span class="o">+</span> <span class="s1">&#39;&lt;/span&gt;&#39;</span><span class="p">;</span>
+        <span class="p">}</span>
+        <span class="nx">code</span><span class="p">.</span><span class="nx">parent</span><span class="p">().</span><span class="nx">append</span><span class="p">(</span><span class="s1">&#39;&lt;div class=&quot;lines&quot;&gt;&#39;</span> <span class="o">+</span> <span class="nx">numbers</span> <span class="o">+</span> <span class="s1">&#39;&lt;/div&gt;&#39;</span><span class="p">);</span>
+    <span class="p">});</span>
+<span class="p">}</span>
+<span class="nx">codestyling</span><span class="p">();</span>
+</pre></div>
+<p>Jelly beans pudding oat cake pie. Cupcake cupcake oat cake candy lemon drops marzipan icing. Dessert topping croissant fruitcake sesame snaps. Cotton candy sweet danish sweet roll sweet sugar plum donut. Bear claw gingerbread cake donut chocolate bar topping cake fruitcake fruitcake. Ice cream icing chupa chups cupcake jelly-o candy. Croissant jujubes topping tart soufflé pudding. Cheesecake caramels icing. Cake jelly-o chocolate cake sugar plum carrot cake lollipop bonbon.</p>
+
             </section>
 
             <section class="post-info">
