@@ -4,7 +4,7 @@ Featured Images for the detail View
 :author: zutrinken
 :tags: General
 :slug: featured-images-for-the-detail-view
-:header_cover: /assets/images/4BQLVS45VD.jpg
+:og_image: assets/images/4BQLVS45VD.jpg
 
 Chocolate tiramisu pastry cotton candy sesame snaps. Dessert cake
 chocolate bar sugar plum bonbon marshmallow lollipop toffee soufflé.

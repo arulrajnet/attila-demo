@@ -105,7 +105,7 @@ DISQUS_SITENAME = "attilademo"
 # Analytics
 GOOGLE_ANALYTICS = "UA-3546274-12"
 
-THEME = 'my-pelican-themes/attila'
+THEME = 'attila'
 
 ### Theme specific settings
 

@@ -4,6 +4,6 @@ About
 :author: zutrinken
 :slug: about
 :status: published
-:header_cover: https://arulrajnet.github.io/attila-demo/theme/images/about-bg.jpg
+:cover: http://attila.demo.arulraj.net/theme/images/about-bg.jpg
 
 A nice about me page. 
