@@ -111,7 +111,7 @@ THEME = 'attila'
 
 COLOR_SCHEME_CSS = 'github.css'
 
-# CSS_OVERRIDE = ['css/myblog.css']
+CSS_OVERRIDE = ['assets/css/myblog.css']
 
 AUTHORS_BIO = {
   "zutrinken": {
