@@ -48,6 +48,7 @@ STATIC_PATHS = ['assets']
 
 EXTRA_PATH_METADATA = {
     'assets/robots.txt': {'path': 'robots.txt'},
+    'assets/favicon.ico': {'path': 'favicon.ico'},
     'assets/CNAME': {'path': 'CNAME'}
 }
 
@@ -116,8 +117,8 @@ CSS_OVERRIDE = ['assets/css/myblog.css']
 AUTHORS_BIO = {
   "zutrinken": {
     "name": "Zutrinken",
-    "cover": "https://arulrajnet.github.io/attila-demo/assets/images/avatar.png",
-    "image": "https://arulrajnet.github.io/attila-demo/assets/images/avatar.png",
+    "cover": "assets/images/avatar.png",
+    "image": "assets/images/avatar.png",
     "website": "http://blog.arulraj.net",
     "location": "Chennai",
     "bio": "This is the place for a small biography with max 200 characters. Well, now 100 are left. Cool, hugh?"

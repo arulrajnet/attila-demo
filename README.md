@@ -18,7 +18,7 @@ Install below python modules
 **Install attila theme**
 
     git clone https://github.com/arulrajnet/attila
-    pelican-themes -i ${PWD}/attila
+    sudo pelican-themes -i ${PWD}/attila
     pelican-thems -l
 
 **To build**
