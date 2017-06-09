@@ -5,21 +5,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://attila.demo.arulraj.net/</loc>
-<lastmod>2017-06-04T18:26:42-00:00</lastmod>
+<lastmod>2017-06-10T00:31:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://attila.demo.arulraj.net/archives.html</loc>
-<lastmod>2017-06-04T18:26:42-00:00</lastmod>
+<lastmod>2017-06-10T00:31:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://attila.demo.arulraj.net/tags.html</loc>
-<lastmod>2017-06-04T18:26:42-00:00</lastmod>
+<lastmod>2017-06-10T00:31:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +34,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://attila.demo.arulraj.net/2015/11/featured-images-for-the-detail-view.html</loc>
 <lastmod>2015-11-20T21:54:00+05:30</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://attila.demo.arulraj.net/2015/11/featured-color-header-view.html</loc>
+<lastmod>2015-11-10T21:54:00+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
