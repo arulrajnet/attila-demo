@@ -52,7 +52,7 @@ EXTRA_PATH_METADATA = {
     'assets/CNAME': {'path': 'CNAME'}
 }
 
-# Post and Pages path 
+# Post and Pages path
 ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}.html'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}.html'
 PAGE_URL = 'pages/{slug}/'
@@ -60,7 +60,7 @@ PAGE_SAVE_AS = 'pages/{slug}/index.html'
 YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%m}/index.html'
 
-# Tags and Category path 
+# Tags and Category path
 CATEGORY_URL = 'category/{slug}'
 CATEGORY_SAVE_AS = 'category/{slug}/index.html'
 CATEGORIES_SAVE_AS = 'catgegories.html'
@@ -80,8 +80,8 @@ PLUGIN_PATHS = [
 ]
 
 PLUGINS = [
-  'sitemap', 
-  'neighbors', 
+  'sitemap',
+  'neighbors',
   'assets'
 ]
 
@@ -120,7 +120,14 @@ AUTHORS_BIO = {
     "cover": "assets/images/avatar.png",
     "image": "assets/images/avatar.png",
     "website": "http://blog.arulraj.net",
+    "linkedin": "unavailable",
+    "github": "arulrajnet",
     "location": "Chennai",
     "bio": "This is the place for a small biography with max 200 characters. Well, now 100 are left. Cool, hugh?"
   }
 }
+
+# Custom Header
+
+HEADER_COVERS_BY_TAG = {'cupcake': 'assets/images/rainbow_cupcake_cover.png', 'general':'https://casper.ghost.org/v1.0.0/images/writing.jpg'}
+
