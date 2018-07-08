@@ -110,6 +110,8 @@ THEME = 'attila'
 
 ### Theme specific settings
 
+HEADER_COVER = 'https://casper.ghost.org/v1.0.0/images/welcome.jpg'
+
 COLOR_SCHEME_CSS = 'github.css'
 
 CSS_OVERRIDE = ['assets/css/myblog.css']
@@ -117,7 +119,7 @@ CSS_OVERRIDE = ['assets/css/myblog.css']
 AUTHORS_BIO = {
   "zutrinken": {
     "name": "Zutrinken",
-    "cover": "assets/images/avatar.png",
+    "cover": "https://casper.ghost.org/v1.0.0/images/team.jpg",
     "image": "assets/images/avatar.png",
     "website": "http://blog.arulraj.net",
     "linkedin": "unavailable",
