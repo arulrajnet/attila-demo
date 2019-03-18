@@ -19,7 +19,7 @@ Install below python modules
 
     git clone https://github.com/arulrajnet/attila
     sudo pelican-themes -i ${PWD}/attila
-    pelican-thems -l
+    pelican-themes -l
 
 **To build**
 
