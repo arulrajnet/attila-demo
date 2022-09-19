@@ -74,6 +74,18 @@ AUTHOR_URL = 'author/{slug}'
 AUTHOR_SAVE_AS = 'author/{slug}/index.html'
 AUTHORS_SAVE_AS = 'authors.html'
 
+# To show the line numbers for code blocks
+# Refer https://docs.getpelican.com/en/stable/settings.html?highlight=MARKDOWN#basic-settings
+# MARKDOWN = {
+#   'extension_configs': {
+#     'markdown.extensions.codehilite': {'css_class': 'highlight', 'linenums': True},
+#     'markdown.extensions.extra': {},
+#     'markdown.extensions.meta': {},
+#   },
+#   'output_format': 'html5',
+# }
+# PYGMENTS_RST_OPTIONS = {'linenos': 'table'}
+
 ### Plugins
 
 PLUGIN_PATHS = [
