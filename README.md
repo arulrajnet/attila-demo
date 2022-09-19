@@ -12,8 +12,8 @@ you can take this repo as reference point to start static bloging
 
 Install below python modules
 
-    sudo apt-get install python-pip python-dev
-    sudo pip install -U pelican fabric ghp-import s3cmd pysvg Pygments requests webassets pillow jsmin cssmin BeautifulSoup4 
+    sudo apt-get install python3-pip python3-dev
+    sudo pip3 install -U pelican fabric2 ghp-import s3cmd pysvg Pygments requests webassets pillow jsmin cssmin BeautifulSoup4
 
 **Install attila theme**
 
@@ -33,12 +33,12 @@ Clone the blog
 
 fabric commands
 
-    fab help
-    fab build
-    fab serve
+    fab2 help
+    fab2 build
+    fab2 serve
 
 Then visit [http://localhost:8000](http://localhost:8000)
 
 **To publish**
 
-    fab gh_pages
+    fab2 gh_pages

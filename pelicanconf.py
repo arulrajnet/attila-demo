@@ -148,8 +148,7 @@ JINJA_ENVIRONMENT = {
   'extensions' :[
     'jinja2.ext.loopcontrols',
     'jinja2.ext.i18n',
-    'jinja2.ext.with_',
-    'jinja2.ext.do'
+    'jinja2.ext.do',
   ]
 }
 
