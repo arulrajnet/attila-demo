@@ -120,7 +120,7 @@ THEME = 'attila'
 # HEADER_COLOR = 'black'
 
 # To set background image for the home page.
-HOME_COVER = 'https://images.unsplash.com/photo-1663094456673-cb6234b45d92?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80'
+HOME_COVER = 'https://images.unsplash.com/photo-1600884877875-065ed42abbd1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2582&q=80'
 
 # Custom Header
 
@@ -128,11 +128,11 @@ HEADER_COVERS_BY_TAG = {'cupcake': 'assets/images/rainbow_cupcake_cover.png', 'g
 
 AUTHORS_BIO = {
   "zutrinken": {
-    "name": "Zutrinken",
+    "name": "Zutrinken A'Mende",
     "cover": "https://images.unsplash.com/photo-1510146758428-e5e4b17b8b6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     "image": "assets/images/avatar.png",
-    "website": "http://blog.arulraj.net",
-    "linkedin": "unavailable",
+    "website": "https://arulraj.net",
+    "linkedin": "arulrajnet",
     "github": "arulrajnet",
     "location": "Chennai",
     "bio": "This is the place for a small biography with max 200 characters. Well, now 100 are left. Cool, hugh?"
