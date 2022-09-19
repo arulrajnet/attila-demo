@@ -1,134 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Attila Demo</title><link href="http://attila.demo.arulraj.net/" rel="alternate"></link><link href="http://attila.demo.arulraj.net/feeds/all.atom.xml" rel="self"></link><id>http://attila.demo.arulraj.net/</id><updated>2015-11-20T21:54:00+05:30</updated><entry><title>Featured Images for the detail View</title><link href="http://attila.demo.arulraj.net/2015/11/featured-images-for-the-detail-view.html" rel="alternate"></link><published>2015-11-20T21:54:00+05:30</published><author><name>zutrinken</name></author><id>tag:attila.demo.arulraj.net,2015-11-20:2015/11/featured-images-for-the-detail-view.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Hi there and welcome to Attila - theme for the blogging platform &lt;a href="http://getpelican.com/"&gt;Pelican&lt;/a&gt;. Attila is open source and can be found on &lt;a href="https://github.com/arulrajnet/attila"&gt;GitHub&lt;/a&gt;. This article is just a demo post and shows you the style of common used elements.&lt;/strong&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h1&gt;Headline 1&lt;/h1&gt;
-&lt;h2&gt;Headline 2&lt;/h2&gt;
-&lt;h3&gt;Headline 3&lt;/h3&gt;
-&lt;h4&gt;Headline 4&lt;/h4&gt;
-&lt;hr /&gt;
-&lt;p&gt;Bear claw danish chocolate lollipop soufflé jelly. Apple pie chocolate cake
-jelly-o icing bonbon. Gingerbread pastry fruitcake muffin chocolate bar
-cheesecake. Sugar plum bonbon bonbon lemon drops gummies.&lt;/p&gt;
-&lt;h2&gt;Inline 🦄 text styles + &lt;a href="http://ghost.org"&gt;link&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Chocolate tiramisu pastry &lt;a href="http://zutrinken.com"&gt;a link&lt;/a&gt; cotton candy sesame
-snaps. Dessert cake chocolate bar &lt;strong&gt;a bold part&lt;/strong&gt; sugar plum bonbon 🐓💨
-marshmallow lollipop toffee soufflé. Donut caramels chocolate bar. Oat cake
-cookie a marked part cheesecake donut. Jelly-o &lt;code&gt;&amp;lt;some&amp;gt; $code&lt;/code&gt; marzipan cake.
-Bonbon sesame snaps chocolate &lt;em&gt;an italic part&lt;/em&gt; oat cake pudding sweet roll
-caramels bonbon. Soufflé muffin 👻 gummies sugar plum dessert bonbon bear claw.
-Sweet ice cream jujubes. Marzipan sugar plum pastry chocolate ⌘+A bar
-fruitcake. Lollipop lollipop brownie.&lt;/p&gt;
-&lt;h2&gt;Ordered &amp;amp; unordered lists&lt;/h2&gt;
-&lt;p&gt;Cake jelly-o chocolate cake sugar plum carrot cake lollipop bonbon. Jelly
-beans pudding oat cake pie.&lt;/p&gt;
-&lt;h3&gt;Unordered list&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Jelly beans pudding oat cake pie.&lt;/li&gt;
-&lt;li&gt;Cupcake cupcake oat cake candy lemon&lt;/li&gt;
-&lt;li&gt;Drops marzipan icing. Dessert topping croissant fruitcake sesame snaps cotton candy sweet danish&lt;/li&gt;
-&lt;li&gt;Sweet roll sweet sugar plum donut &lt;ul&gt;
-&lt;li&gt;Bear claw gingerbread cake donut chocolate bar&lt;/li&gt;
-&lt;li&gt;Topping cake fruitcake fruitcake&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Ice cream icing chupa chups cupcake jelly-o candy&lt;/li&gt;
-&lt;li&gt;Croissant jujubes topping tart soufflé pudding &lt;ul&gt;
-&lt;li&gt;Cheesecake caramels icing&lt;/li&gt;
-&lt;li&gt;Cake jelly-o chocolate cake sugar plum carrot cake lollipop bonbon&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Ordered list&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Drops marzipan icing. Dessert topping croissant fruitcake sesame snaps cotton candy sweet danish &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Sweet roll sweet sugar plum donut   &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Bear claw gingerbread cake donut chocolate bar&lt;/li&gt;
-&lt;li&gt;Topping cake fruitcake fruitcake&lt;/li&gt;
-&lt;li&gt;Ice cream icing chupa chups cupcake jelly-o candy&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;Definition list&lt;/h3&gt;
-&lt;p&gt;Ice cream&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;icing chupa chups cupcake jelly-o candy. Croissant jujubes topping tart soufflé pudding
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;Cake&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Jelly beans pudding oat cake pie
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;Drops marzipan icing&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Cake jelly-o chocolate cake sugar plum carrot cake lollipop
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;h2&gt;Tables, blockquotes and codeblocks&lt;/h2&gt;
-&lt;p&gt;Apple pie chocolate cake jelly-o icing bonbon. Gingerbread pastry fruitcake
-muffin chocolate bar cheesecake. Sugar plum bonbon bonbon lemon drops gummies.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;RGB&lt;/th&gt;
-&lt;th&gt;CMYK&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Red&lt;/td&gt;
-&lt;td&gt;Cyan&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Green&lt;/td&gt;
-&lt;td&gt;Magenta&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Blue&lt;/td&gt;
-&lt;td&gt;Yellow&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Brownie oat cake tart caramels croissant lollipop pastry soufflé lemon drops.
-Cotton candy pastry ice cream fruitcake tiramisu jelly beans dragée.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Jelly beans dessert toffee caramels brownie ice cream croissant chupa chups
-liquorice. Danish sweet roll croissant. Powder sugar plum powder danish wafer
-cake.&lt;/p&gt;
-&lt;p&gt;Candy jelly beans jujubes muffin. Bear claw danish chocolate lollipop
-soufflé jelly.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Cake soufflé icing gingerbread topping jujubes. Chocolate cake pudding sweet
-biscuit cake. Soufflé tart topping gummi bears jujubes lollipop ice cream
-pudding.&lt;/p&gt;
-&lt;p&gt;Apple pie jelly-o powder powder sweet. Halvah chocolate bar cotton candy sugar
-plum cake. Liquorice marshmallow sweet macaroon.&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nt"&gt;&amp;lt;blockquote&amp;gt;&lt;/span&gt;
-    &lt;span class="nt"&gt;&amp;lt;p&amp;gt;&lt;/span&gt;For example.&lt;span class="nt"&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
-&lt;span class="nt"&gt;&amp;lt;/blockquote&amp;gt;&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;Cake soufflé icing gingerbread topping jujubes. Chocolate cake pudding sweet
-biscuit cake. Soufflé tart topping gummi bears jujubes lollipop ice cream
-pudding. Apple pie jelly-o powder powder sweet. Halvah chocolate bar cotton
-candy sugar plum cake. Liquorice marshmallow sweet macaroon. Cotton candy
-pastry ice cream fruitcake tiramisu jelly beans drag.&lt;/p&gt;
-&lt;p&gt;Apple pie chocolate cake jelly-o icing bonbon. Gingerbread pastry fruitcake
-muffin chocolate bar cheesecake. Sugar plum bonbon bonbon lemon drops gummies.
-Brownie oat cake tart caramels croissant lollipop pastry soufflé lemon drops.
-Jelly beans dessert toffee caramels brownie ice cream croissant chupa chups
-liquorice. Danish sweet roll croissant. Powder sugar plum powder danish wafer
-cake. Candy jelly beans jujubes muffin. Bear claw danish chocolate lollipop
-soufflé jelly.&lt;/p&gt;</summary><category term="General"></category></entry><entry><title>Featured Color Header View</title><link href="http://attila.demo.arulraj.net/2015/11/featured-color-header-view.html" rel="alternate"></link><published>2015-11-10T21:54:00+05:30</published><author><name>zutrinken</name></author><id>tag:attila.demo.arulraj.net,2015-11-10:2015/11/featured-color-header-view.html</id><summary type="html">&lt;p&gt;Chocolate tiramisu pastry cotton candy sesame snaps. Dessert cake
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Attila Demo</title><link href="http://attila.demo.arulraj.net/" rel="alternate"></link><link href="http://attila.demo.arulraj.net/feeds/all.atom.xml" rel="self"></link><id>http://attila.demo.arulraj.net/</id><updated>2022-09-19T05:27:38+05:30</updated><subtitle>Blog description here.</subtitle><entry><title>Featured Color Header View</title><link href="http://attila.demo.arulraj.net/2015/11/featured-color-header-view.html" rel="alternate"></link><published>2015-11-10T21:54:00+05:30</published><updated>2022-09-19T05:27:38+05:30</updated><author><name>zutrinken</name></author><id>tag:attila.demo.arulraj.net,2015-11-10:/2015/11/featured-color-header-view.html</id><summary type="html">&lt;p&gt;Chocolate tiramisu pastry cotton candy sesame snaps. Dessert cake
+chocolate bar sugar plum bonbon marshmallow lollipop toffee soufflé.
+Donut caramels chocolate bar. Oat cake cookie cheesecake donut. Jelly-o
+marzipan cake. Sweet ice cream jujubes. Marzipan sugar plum pastry
+chocolate bar fruitcake. Lollipop lollipop brownie.&lt;/p&gt;
+&lt;p&gt;Set &lt;tt class="docutils literal"&gt;:color: cyan&lt;/tt&gt; in this article …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Chocolate tiramisu pastry cotton candy sesame snaps. Dessert cake
 chocolate bar sugar plum bonbon marshmallow lollipop toffee soufflé.
 Donut caramels chocolate bar. Oat cake cookie cheesecake donut. Jelly-o
 marzipan cake. Sweet ice cream jujubes. Marzipan sugar plum pastry
 chocolate bar fruitcake. Lollipop lollipop brownie.&lt;/p&gt;
 &lt;p&gt;Set &lt;tt class="docutils literal"&gt;:color: cyan&lt;/tt&gt; in this article.&lt;/p&gt;
-</summary><category term="General"></category></entry><entry><title>Headlines, Blockquotes &amp; Images</title><link href="http://attila.demo.arulraj.net/2015/11/headlines-blockquotes-images.html" rel="alternate"></link><published>2015-11-01T01:25:00+05:30</published><author><name>zutrinken</name></author><id>tag:attila.demo.arulraj.net,2015-11-01:2015/11/headlines-blockquotes-images.html</id><summary type="html">&lt;p&gt;Chocolate tiramisu pastry cotton candy sesame snaps. Dessert cake
+</content><category term="misc"></category><category term="General"></category></entry><entry><title>Headlines, Blockquotes &amp; Images</title><link href="http://attila.demo.arulraj.net/2015/11/headlines-blockquotes-images.html" rel="alternate"></link><published>2015-11-01T01:25:00+05:30</published><updated>2022-09-19T05:27:38+05:30</updated><author><name>zutrinken</name></author><id>tag:attila.demo.arulraj.net,2015-11-01:/2015/11/headlines-blockquotes-images.html</id><summary type="html">&lt;p&gt;Chocolate tiramisu pastry cotton candy sesame snaps. Dessert cake
+chocolate bar sugar plum bonbon marshmallow lollipop toffee soufflé.
+Donut caramels chocolate bar. Oat cake cookie cheesecake donut. Jelly-o
+marzipan cake. Sweet ice cream jujubes. Marzipan sugar plum pastry
+chocolate bar fruitcake. Lollipop lollipop brownie.&lt;/p&gt;
+&lt;div class="section" id="headline-one"&gt;
+&lt;h2&gt;Headline One&lt;/h2&gt;
+&lt;p&gt;Topping chocolate bar liquorice …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Chocolate tiramisu pastry cotton candy sesame snaps. Dessert cake
 chocolate bar sugar plum bonbon marshmallow lollipop toffee soufflé.
 Donut caramels chocolate bar. Oat cake cookie cheesecake donut. Jelly-o
 marzipan cake. Sweet ice cream jujubes. Marzipan sugar plum pastry
@@ -154,7 +43,7 @@ cake jelly beans. Sweet roll toffee cupcake dessert cake.&lt;/p&gt;
 &lt;h4&gt;Headline Three&lt;/h4&gt;
 &lt;p&gt;Bear claw powder chocolate cake tart danish fruitcake. Lemon drops
 toffee tootsie roll. Tootsie roll dessert jujubes caramels carrot cake.&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="/assets/images/teufelsberg.jpg"&gt;&lt;img alt="Image" src="/assets/images/teufelsberg.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external image-reference" href="/assets/images/teufelsberg.jpg"&gt;&lt;img alt="Image" src="/assets/images/teufelsberg.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Soufflé muffin gummies sugar plum dessert bonbon bear claw. Wafer
 gummies lollipop pastry cotton candy chocolate cake sweet roll.&lt;/p&gt;
 &lt;div class="section" id="headline-four"&gt;
@@ -179,7 +68,14 @@ Chocolate tiramisu pastry cotton candy sesame snaps. Dessert cake&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</summary><category term="General"></category><category term="Cupcake"></category></entry><entry><title>Lists and Tables</title><link href="http://attila.demo.arulraj.net/2015/11/lists-and-tables.html" rel="alternate"></link><published>2015-11-01T01:12:00+05:30</published><author><name>zutrinken</name></author><id>tag:attila.demo.arulraj.net,2015-11-01:2015/11/lists-and-tables.html</id><summary type="html">&lt;p&gt;Jelly beans pudding oat cake pie. Cupcake cupcake oat cake candy lemon
+</content><category term="misc"></category><category term="General"></category><category term="Cupcake"></category></entry><entry><title>Lists and Tables</title><link href="http://attila.demo.arulraj.net/2015/11/lists-and-tables.html" rel="alternate"></link><published>2015-11-01T01:12:00+05:30</published><updated>2022-09-19T05:27:38+05:30</updated><author><name>zutrinken</name></author><id>tag:attila.demo.arulraj.net,2015-11-01:/2015/11/lists-and-tables.html</id><summary type="html">&lt;p&gt;Jelly beans pudding oat cake pie. Cupcake cupcake oat cake candy lemon
+drops marzipan icing. Dessert topping croissant fruitcake sesame snaps.
+Cotton candy sweet danish sweet roll sweet sugar plum donut. Bear claw
+gingerbread cake donut chocolate bar topping cake fruitcake fruitcake.&lt;/p&gt;
+&lt;div class="section" id="unordered-list"&gt;
+&lt;h2&gt;Unordered List&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Jelly beans pudding oat cake pie …&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Jelly beans pudding oat cake pie. Cupcake cupcake oat cake candy lemon
 drops marzipan icing. Dessert topping croissant fruitcake sesame snaps.
 Cotton candy sweet danish sweet roll sweet sugar plum donut. Bear claw
 gingerbread cake donut chocolate bar topping cake fruitcake fruitcake.&lt;/p&gt;
@@ -248,25 +144,35 @@ sweet roll sweet sugar plum donut.&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</summary><category term="General"></category></entry><entry><title>Code Blocks</title><link href="http://attila.demo.arulraj.net/2015/11/code-blocks.html" rel="alternate"></link><published>2015-11-01T00:45:00+05:30</published><author><name>zutrinken</name></author><id>tag:attila.demo.arulraj.net,2015-11-01:2015/11/code-blocks.html</id><summary type="html">&lt;p&gt;Wafer gummies lollipop pastry cotton candy chocolate cake sweet roll.
+</content><category term="misc"></category><category term="General"></category></entry><entry><title>Code Blocks</title><link href="http://attila.demo.arulraj.net/2015/11/code-blocks.html" rel="alternate"></link><published>2015-11-01T00:45:00+05:30</published><updated>2022-09-19T05:27:38+05:30</updated><author><name>zutrinken</name></author><id>tag:attila.demo.arulraj.net,2015-11-01:/2015/11/code-blocks.html</id><summary type="html">&lt;p&gt;Wafer gummies lollipop pastry cotton candy chocolate cake sweet roll.
 Cupcake caramels brownie gummi bears. Sweet fruitcake chocolate bear
 claw cake liquorice bear claw lemon drops cheesecake. Sweet sesame snaps
 pie halvah.&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kd"&gt;function&lt;/span&gt; &lt;span class="nx"&gt;codestyling&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-    &lt;span class="nx"&gt;$&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;pre code&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;).&lt;/span&gt;&lt;span class="nx"&gt;each&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="kd"&gt;function&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;i&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="nx"&gt;e&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-        &lt;span class="kd"&gt;var&lt;/span&gt; &lt;span class="nx"&gt;code&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nx"&gt;$&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="k"&gt;this&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
-        &lt;span class="kd"&gt;var&lt;/span&gt; &lt;span class="nx"&gt;lines&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nx"&gt;code&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;html&lt;/span&gt;&lt;span class="p"&gt;().&lt;/span&gt;&lt;span class="nx"&gt;split&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="sr"&gt;/\n/&lt;/span&gt;&lt;span class="p"&gt;).&lt;/span&gt;&lt;span class="nx"&gt;length&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-        &lt;span class="kd"&gt;var&lt;/span&gt; &lt;span class="nx"&gt;numbers&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[];&lt;/span&gt;
-        &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;i&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="nx"&gt;i&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&lt;/span&gt; &lt;span class="nx"&gt;lines&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="nx"&gt;i&lt;/span&gt;&lt;span class="o"&gt;++&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-            &lt;span class="nx"&gt;numbers&lt;/span&gt; &lt;span class="o"&gt;+=&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;&amp;lt;span class=&amp;quot;line&amp;quot;&amp;gt;&amp;#39;&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="nx"&gt;i&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;&amp;lt;/span&amp;gt;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-        &lt;span class="p"&gt;}&lt;/span&gt;
-        &lt;span class="nx"&gt;code&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;parent&lt;/span&gt;&lt;span class="p"&gt;().&lt;/span&gt;&lt;span class="nx"&gt;append&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;&amp;lt;div class=&amp;quot;lines&amp;quot;&amp;gt;&amp;#39;&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="nx"&gt;numbers&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;&amp;lt;/div&amp;gt;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
-    &lt;span class="p"&gt;});&lt;/span&gt;
-&lt;span class="p"&gt;}&lt;/span&gt;
-&lt;span class="nx"&gt;codestyling&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kd"&gt;function&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;codestyling&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nx"&gt;$&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;pre code&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;).&lt;/span&gt;&lt;span class="nx"&gt;each&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="kd"&gt;function&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;i&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;e&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="kd"&gt;var&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;code&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;$&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="k"&gt;this&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="kd"&gt;var&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;lines&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;code&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;html&lt;/span&gt;&lt;span class="p"&gt;().&lt;/span&gt;&lt;span class="nx"&gt;split&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="sr"&gt;/\n/&lt;/span&gt;&lt;span class="p"&gt;).&lt;/span&gt;&lt;span class="nx"&gt;length …&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Wafer gummies lollipop pastry cotton candy chocolate cake sweet roll.
+Cupcake caramels brownie gummi bears. Sweet fruitcake chocolate bear
+claw cake liquorice bear claw lemon drops cheesecake. Sweet sesame snaps
+pie halvah.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kd"&gt;function&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;codestyling&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nx"&gt;$&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;pre code&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;).&lt;/span&gt;&lt;span class="nx"&gt;each&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="kd"&gt;function&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;i&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;e&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="kd"&gt;var&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;code&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;$&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="k"&gt;this&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="kd"&gt;var&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;lines&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;code&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;html&lt;/span&gt;&lt;span class="p"&gt;().&lt;/span&gt;&lt;span class="nx"&gt;split&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="sr"&gt;/\n/&lt;/span&gt;&lt;span class="p"&gt;).&lt;/span&gt;&lt;span class="nx"&gt;length&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="kd"&gt;var&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;numbers&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;[];&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="k"&gt;for&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;i&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mf"&gt;1&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;i&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;lines&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;i&lt;/span&gt;&lt;span class="o"&gt;++&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;            &lt;/span&gt;&lt;span class="nx"&gt;numbers&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;&amp;lt;span class=&amp;quot;line&amp;quot;&amp;gt;&amp;#39;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;i&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;&amp;lt;/span&amp;gt;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nx"&gt;code&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;parent&lt;/span&gt;&lt;span class="p"&gt;().&lt;/span&gt;&lt;span class="nx"&gt;append&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;&amp;lt;div class=&amp;quot;lines&amp;quot;&amp;gt;&amp;#39;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;numbers&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;&amp;lt;/div&amp;gt;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;});&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="nx"&gt;codestyling&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Jelly beans pudding oat cake pie. Cupcake cupcake oat cake candy lemon drops marzipan icing. Dessert topping croissant fruitcake sesame snaps. Cotton candy sweet danish sweet roll sweet sugar plum donut. Bear claw gingerbread cake donut chocolate bar topping cake fruitcake fruitcake. Ice cream icing chupa chups cupcake jelly-o candy. Croissant jujubes topping tart soufflé pudding. Cheesecake caramels icing. Cake jelly-o chocolate cake sugar plum carrot cake lollipop bonbon.&lt;/p&gt;
-</summary><category term="General"></category></entry><entry><title>Welcome to Ghost</title><link href="http://attila.demo.arulraj.net/2015/11/welcome-to-ghost.html" rel="alternate"></link><published>2015-11-01T00:30:00+05:30</published><author><name>zutrinken</name></author><id>tag:attila.demo.arulraj.net,2015-11-01:2015/11/welcome-to-ghost.html</id><summary type="html">&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to
+</content><category term="misc"></category><category term="General"></category></entry><entry><title>Welcome to Ghost</title><link href="http://attila.demo.arulraj.net/2015/11/welcome-to-ghost.html" rel="alternate"></link><published>2015-11-01T00:30:00+05:30</published><updated>2022-09-19T05:27:38+05:30</updated><author><name>zutrinken</name></author><id>tag:attila.demo.arulraj.net,2015-11-01:/2015/11/welcome-to-ghost.html</id><summary type="html">&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to
+the Ghost editor and get you started. You can manage your content by
+signing in to the admin area at &lt;tt class="docutils literal"&gt;&amp;lt;your blog &lt;span class="pre"&gt;URL&amp;gt;/ghost/&lt;/span&gt;&lt;/tt&gt;. When you
+arrive, you can select this post from a list on the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to
 the Ghost editor and get you started. You can manage your content by
 signing in to the admin area at &lt;tt class="docutils literal"&gt;&amp;lt;your blog &lt;span class="pre"&gt;URL&amp;gt;/ghost/&lt;/span&gt;&lt;/tt&gt;. When you
 arrive, you can select this post from a list on the left and see a
@@ -305,7 +211,7 @@ Ghost website&lt;/a&gt;. Neat.&lt;/p&gt;
 &lt;h2&gt;What about Images?&lt;/h2&gt;
 &lt;p&gt;Images work too! Already know the URL of the image you want to include
 in your article? Simply paste it in like this to make it show up:&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="https://ghost.org/images/ghost.png"&gt;&lt;img alt="Image" src="https://ghost.org/images/ghost.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external image-reference" href="https://ghost.org/images/ghost.png"&gt;&lt;img alt="Image" src="https://ghost.org/images/ghost.png" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Not sure which image you want to use yet? That's ok too. Leave yourself
 a descriptive placeholder and keep writing. Come back later and drag and
 drop the image in to upload:&lt;/p&gt;
@@ -324,10 +230,10 @@ Ghost - Just a blogging platform&lt;/blockquote&gt;
 &lt;p&gt;Got a streak of geek? We've got you covered there, too. You can write
 inline &lt;tt class="docutils literal"&gt;&amp;lt;code&amp;gt;&lt;/tt&gt; blocks really easily with back ticks. Want to show off
 something more comprehensive? 4 spaces of indentation gets you there.&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nc"&gt;awesome-thing&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-    &lt;span class="k"&gt;display&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="kc"&gt;block&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-    &lt;span class="k"&gt;width&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;100&lt;/span&gt;&lt;span class="kt"&gt;%&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nc"&gt;awesome-thing&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="k"&gt;display&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;block&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="k"&gt;width&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;100&lt;/span&gt;&lt;span class="kt"&gt;%&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="ready-for-a-break"&gt;
@@ -343,4 +249,4 @@ plain old HTML and it'll still work! Very flexible.&lt;/p&gt;
 &lt;p&gt;That should be enough to get you started. Have fun - and let us know
 what you think :)&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="Getting Started"></category></entry></feed>
+</content><category term="misc"></category><category term="Getting Started"></category></entry></feed>
