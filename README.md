@@ -13,7 +13,7 @@ you can take this repo as reference point to start static bloging
 Install below python modules
 
     sudo apt-get install python3-pip python3-dev
-    sudo pip3 install -U pelican fabric2 ghp-import s3cmd pysvg Pygments requests webassets pillow jsmin cssmin BeautifulSoup4
+    sudo pip3 install -U pelican Markdown fabric2 ghp-import s3cmd pysvg Pygments requests webassets pillow jsmin cssmin BeautifulSoup4
 
 **Install attila theme**
 

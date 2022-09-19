@@ -120,16 +120,16 @@ THEME = 'attila'
 # HEADER_COLOR = 'black'
 
 # To set background image for the home page.
-HOME_COVER = 'https://casper.ghost.org/v1.0.0/images/welcome.jpg'
+HOME_COVER = 'https://images.unsplash.com/photo-1663094456673-cb6234b45d92?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80'
 
 # Custom Header
 
-HEADER_COVERS_BY_TAG = {'cupcake': 'assets/images/rainbow_cupcake_cover.png', 'general':'https://casper.ghost.org/v1.0.0/images/writing.jpg'}
+HEADER_COVERS_BY_TAG = {'cupcake': 'assets/images/rainbow_cupcake_cover.png', 'general':'https://images.unsplash.com/photo-1486427944299-d1955d23e34d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80'}
 
 AUTHORS_BIO = {
   "zutrinken": {
     "name": "Zutrinken",
-    "cover": "https://casper.ghost.org/v1.0.0/images/team.jpg",
+    "cover": "https://images.unsplash.com/photo-1510146758428-e5e4b17b8b6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     "image": "assets/images/avatar.png",
     "website": "http://blog.arulraj.net",
     "linkedin": "unavailable",
