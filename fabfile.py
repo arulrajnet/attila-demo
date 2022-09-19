@@ -40,7 +40,7 @@ def rebuild(c):
 @task
 def regenerate(c):
   """Automatically regenerate site upon file modification"""
-  c.local('pelican -r -s pelicanconf.py')
+  c.run('pelican -r -s pelicanconf.py')
 
 @task
 def serve(c):
@@ -64,12 +64,12 @@ def reserve(c):
 @task
 def preview(c):
   """Build production version of site"""
-  c.local('pelican -s publishconf.py')
+  c.run('pelican -s publishconf.py')
 
 @task
 def gh_pages(c):
   """Publish to GitHub Pages"""
   clean(c)
-  c.local('pelican -s publishconf.py')
-  c.local("ghp-import -b {} {}".format(GITHUB_PAGES_BRANCH, DEPLOY_PATH))
-  c.local("git push origin {}".format(GITHUB_PAGES_BRANCH))
+  c.run('pelican -s publishconf.py')
+  c.run("ghp-import -b {} {}".format(GITHUB_PAGES_BRANCH, DEPLOY_PATH))
+  c.run("git push origin {}".format(GITHUB_PAGES_BRANCH))
