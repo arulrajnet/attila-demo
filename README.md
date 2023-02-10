@@ -37,8 +37,18 @@ fabric commands
     fab2 build
     fab2 serve
 
+OR make commands
+
+    make html
+    make serve
+
 Then visit [http://localhost:8000](http://localhost:8000)
 
 **To publish**
 
     fab2 gh_pages
+
+OR
+
+    make publish
+    make github
