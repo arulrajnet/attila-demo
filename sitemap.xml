@@ -5,119 +5,112 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://attila.demo.arulraj.net/</loc>
-<lastmod>2022-09-20T05:27:07-00:00</lastmod>
+<lastmod>2023-02-10T02:16:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://attila.demo.arulraj.net/tags.html</loc>
-<lastmod>2022-09-20T05:27:07-00:00</lastmod>
+<lastmod>2023-02-10T02:16:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://attila.demo.arulraj.net/categories.html</loc>
-<lastmod>2022-09-20T05:27:07-00:00</lastmod>
+<lastmod>2023-02-10T02:16:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://attila.demo.arulraj.net/authors.html</loc>
-<lastmod>2022-09-20T05:27:07-00:00</lastmod>
+<lastmod>2023-02-10T02:16:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://attila.demo.arulraj.net/archives.html</loc>
-<lastmod>2022-09-20T05:27:07-00:00</lastmod>
+<lastmod>2023-02-10T02:16:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://attila.demo.arulraj.net/pages/about/</loc>
-<lastmod>2022-09-19T05:27:38+05:30</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://attila.demo.arulraj.net/2015/11/featured-images-for-the-detail-view.html</loc>
-<lastmod>2022-09-20T05:13:40+05:30</lastmod>
+<lastmod>2022-09-18T23:57:38+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://attila.demo.arulraj.net/2015/11/featured-color-header-view.html</loc>
-<lastmod>2022-09-19T05:27:38+05:30</lastmod>
+<lastmod>2022-09-18T23:57:38+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://attila.demo.arulraj.net/2015/11/headlines-blockquotes-images.html</loc>
-<lastmod>2022-09-19T05:27:38+05:30</lastmod>
+<lastmod>2022-09-18T23:57:38+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://attila.demo.arulraj.net/2015/11/lists-and-tables.html</loc>
-<lastmod>2022-09-19T05:27:38+05:30</lastmod>
+<lastmod>2022-09-18T23:57:38+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://attila.demo.arulraj.net/2015/11/code-blocks.html</loc>
-<lastmod>2022-09-19T20:50:22+05:30</lastmod>
+<lastmod>2022-09-19T15:20:22+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://attila.demo.arulraj.net/2015/11/welcome-to-ghost.html</loc>
-<lastmod>2022-09-19T05:27:38+05:30</lastmod>
+<lastmod>2022-09-18T23:57:38+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://attila.demo.arulraj.net/category/misc</loc>
-<lastmod>2022-09-20T05:13:40+05:53</lastmod>
+<lastmod>2022-09-19T15:20:22+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://attila.demo.arulraj.net/tag/general</loc>
-<lastmod>2022-09-20T05:13:40+05:53</lastmod>
+<lastmod>2022-09-19T15:20:22+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://attila.demo.arulraj.net/tag/cupcake</loc>
-<lastmod>2022-09-19T05:27:38+05:53</lastmod>
+<lastmod>2022-09-18T23:57:38+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://attila.demo.arulraj.net/tag/getting-started</loc>
-<lastmod>2022-09-19T05:27:38+05:53</lastmod>
+<lastmod>2022-09-18T23:57:38+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://attila.demo.arulraj.net/author/zutrinken</loc>
-<lastmod>2022-09-20T05:13:40+05:53</lastmod>
+<lastmod>2022-09-19T15:20:22+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
