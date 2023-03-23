@@ -117,10 +117,16 @@
       <div class="inner">
         <nav id="navigation">
             <span id="home-button" class="nav-button">
-                <a class="home-button" href="http://attila.demo.arulraj.net/" title="Home"><i class="ic ic-arrow-left"></i> Home</a>
+                <a class="home-button" href="http://attila.demo.arulraj.net/" aria-label="Home" title="Home">
+                  <i class="ic ic-arrow-left" aria-hidden="true"></i>
+                  <span>Home</span>
+                </a>
             </span>
           <span id="menu-button" class="nav-button">
-            <a class="menu-button"><i class="ic ic-menu"></i> Menu</a>
+            <a class="menu-button" aria-label="Menu">
+              <i class="ic ic-menu" aria-hidden="true"></i>
+              <span>Menu</span>
+            </a>
           </span>
         </nav>
         <h1 class="post-title">Code Blocks</h1>
