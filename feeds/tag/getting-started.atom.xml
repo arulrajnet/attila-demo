@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Attila Demo - Getting Started</title><link href="https://attila.demo.arulraj.net/" rel="alternate"></link><link href="https://attila.demo.arulraj.net/feeds/tag/getting-started.atom.xml" rel="self"></link><id>https://attila.demo.arulraj.net/</id><updated>2022-09-18T23:57:38+05:30</updated><subtitle>Blog description here.</subtitle><entry><title>Welcome to Ghost</title><link href="https://attila.demo.arulraj.net/2015/11/welcome-to-ghost.html" rel="alternate"></link><published>2015-11-01T00:30:00+05:30</published><updated>2022-09-18T23:57:38+05:30</updated><author><name>zutrinken</name></author><id>tag:attila.demo.arulraj.net,2015-11-01:/2015/11/welcome-to-ghost.html</id><summary type="html">&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to
+the Ghost editor and get you started. You can manage your content by
+signing in to the admin area at &lt;tt class="docutils literal"&gt;&amp;lt;your blog &lt;span class="pre"&gt;URL&amp;gt;/ghost/&lt;/span&gt;&lt;/tt&gt;. When you
+arrive, you can select this post from a list on the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to
+the Ghost editor and get you started. You can manage your content by
+signing in to the admin area at &lt;tt class="docutils literal"&gt;&amp;lt;your blog &lt;span class="pre"&gt;URL&amp;gt;/ghost/&lt;/span&gt;&lt;/tt&gt;. When you
+arrive, you can select this post from a list on the left and see a
+preview of it on the right. Click the little pencil icon at the top of
+the preview to edit this post and read the next section!&lt;/p&gt;
+&lt;div class="section" id="getting-started"&gt;
+&lt;h2&gt;Getting Started&lt;/h2&gt;
+&lt;p&gt;Ghost uses something called Markdown for writing. Essentially, it's a
+shorthand way to manage your post formatting as you write!&lt;/p&gt;
+&lt;p&gt;Writing in Markdown is really easy. In the left hand panel of Ghost, you
+simply write as you normally would. Where appropriate, you can use
+&lt;em&gt;shortcuts&lt;/em&gt; to &lt;strong&gt;style&lt;/strong&gt; your content. For example, a list:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Item number one&lt;/li&gt;
+&lt;li&gt;Item number two&lt;ul&gt;
+&lt;li&gt;A nested item&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;A final item&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;or with numbers!&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Remember to buy some milk&lt;/li&gt;
+&lt;li&gt;Drink the milk&lt;/li&gt;
+&lt;li&gt;Tweet that I remembered to buy the milk, and drank it&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div class="section" id="links"&gt;
+&lt;h2&gt;Links&lt;/h2&gt;
+&lt;p&gt;Want to link to a source? No problem. If you paste in a URL, like
+&lt;a class="reference external" href="http://ghost.org"&gt;http://ghost.org&lt;/a&gt; - it'll automatically be linked up. But if you want to
+customise your anchor text, you can do that too! Here's a link to &lt;a class="reference external" href="http://ghost.org"&gt;the
+Ghost website&lt;/a&gt;. Neat.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="what-about-images"&gt;
+&lt;h2&gt;What about Images?&lt;/h2&gt;
+&lt;p&gt;Images work too! Already know the URL of the image you want to include
+in your article? Simply paste it in like this to make it show up:&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external image-reference" href="https://ghost.org/images/ghost.png"&gt;&lt;img alt="Image" src="https://ghost.org/images/ghost.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Not sure which image you want to use yet? That's ok too. Leave yourself
+a descriptive placeholder and keep writing. Come back later and drag and
+drop the image in to upload:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="quoting"&gt;
+&lt;h2&gt;Quoting&lt;/h2&gt;
+&lt;p&gt;Sometimes a link isn't enough, you want to quote someone on what they've
+said. Perhaps you've started using a new blogging platform and feel the
+sudden urge to share their slogan? A quote might be just the way to do
+it!&lt;/p&gt;
+&lt;blockquote&gt;
+Ghost - Just a blogging platform&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div class="section" id="working-with-code"&gt;
+&lt;h2&gt;Working with Code&lt;/h2&gt;
+&lt;p&gt;Got a streak of geek? We've got you covered there, too. You can write
+inline &lt;tt class="docutils literal"&gt;&amp;lt;code&amp;gt;&lt;/tt&gt; blocks really easily with back ticks. Want to show off
+something more comprehensive? 4 spaces of indentation gets you there.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nc"&gt;awesome-thing&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="k"&gt;display&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;block&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="k"&gt;width&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;100&lt;/span&gt;&lt;span class="kt"&gt;%&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="ready-for-a-break"&gt;
+&lt;h2&gt;Ready for a Break?&lt;/h2&gt;
+&lt;p&gt;Throw 3 or more dashes down on any new line and you've got yourself a
+fancy new divider. Aw yeah.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="advanced-usage"&gt;
+&lt;h2&gt;Advanced Usage&lt;/h2&gt;
+&lt;p&gt;There's one fantastic secret about Markdown. If you want, you can write
+plain old HTML and it'll still work! Very flexible.&lt;/p&gt;
+&lt;p&gt;That should be enough to get you started. Have fun - and let us know
+what you think :)&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="misc"></category><category term="Getting Started"></category></entry></feed>

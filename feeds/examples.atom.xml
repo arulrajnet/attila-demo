@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Attila Demo - examples</title><link href="https://attila.demo.arulraj.net/" rel="alternate"></link><link href="https://attila.demo.arulraj.net/feeds/examples.atom.xml" rel="self"></link><id>https://attila.demo.arulraj.net/</id><updated>2023-03-25T14:20:02+05:30</updated><subtitle>Blog description here.</subtitle><entry><title>Featured Color Header View</title><link href="https://attila.demo.arulraj.net/2015/11/featured-color-header-view.html" rel="alternate"></link><published>2015-11-10T21:54:00+05:30</published><updated>2023-03-25T14:20:02+05:30</updated><author><name>zutrinken</name></author><id>tag:attila.demo.arulraj.net,2015-11-10:/2015/11/featured-color-header-view.html</id><summary type="html">&lt;p&gt;Chocolate tiramisu pastry cotton candy sesame snaps. Dessert cake
+chocolate bar sugar plum bonbon marshmallow lollipop toffee soufflé.
+Donut caramels chocolate bar. Oat cake cookie cheesecake donut. Jelly-o
+marzipan cake. Sweet ice cream jujubes. Marzipan sugar plum pastry
+chocolate bar fruitcake. Lollipop lollipop brownie.&lt;/p&gt;
+&lt;p&gt;Set &lt;tt class="docutils literal"&gt;:color: cyan&lt;/tt&gt; in this article …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Chocolate tiramisu pastry cotton candy sesame snaps. Dessert cake
+chocolate bar sugar plum bonbon marshmallow lollipop toffee soufflé.
+Donut caramels chocolate bar. Oat cake cookie cheesecake donut. Jelly-o
+marzipan cake. Sweet ice cream jujubes. Marzipan sugar plum pastry
+chocolate bar fruitcake. Lollipop lollipop brownie.&lt;/p&gt;
+&lt;p&gt;Set &lt;tt class="docutils literal"&gt;:color: cyan&lt;/tt&gt; in this article.&lt;/p&gt;
+</content><category term="examples"></category><category term="General"></category></entry></feed>
