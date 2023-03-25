@@ -156,8 +156,6 @@ AUTHORS_BIO = {
   }
 }
 
-COLOR_SCHEME_CSS = 'github.css'
-
 CSS_OVERRIDE = ['assets/css/myblog.css']
 
 # Jinja config - Pelican 4
