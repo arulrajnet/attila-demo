@@ -45,7 +45,7 @@ To activate virtualenv in windows(git-bash)
 
 **Install attila theme**
 
-    git clone --depth=1 https://github.com/arulrajnet/attila --depth=1
+    git clone --depth=1 https://github.com/arulrajnet/attila
     pelican-themes -i ${PWD}/attila
     pelican-themes -l
 
@@ -57,7 +57,9 @@ To activate virtualenv in windows(git-bash)
 * Change [author bio](https://github.com/arulrajnet/attila-demo/blob/master/pelicanconf.py#L146)
 * Change [site url](https://github.com/arulrajnet/attila-demo/blob/master/publishconf.py#L13)
 * Delete existing content. `rm -rf content/*`
-* Update the git config and push to your repo
+* Update the git config and push to your repo.
+
+Note: Change your branch name instead of "main"
 
 ```
 rm -rf .git
