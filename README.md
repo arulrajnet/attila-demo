@@ -1,12 +1,17 @@
 Attila Demo
 ----------------
 
+* [Setup](#setup)
+* [Clone and install theme](#clone-and-install-theme)
+* [Convert to your blog](#convert-to-your-blog)
+* [Build](#build)
+
 This is the demo blog of theme [attila](https://github.com/arulrajnet/attila). Blog powered by pelican, hosted on [https://arulrajnet.github.io/attila-demo](https://arulrajnet.github.io/attila-demo)
 
 
 ### Setup
 
-you can take this repo as reference point to start static bloging
+you can take this repo and start static [blogging](#convert-to-your-blog)
 
 **Requirements**
 
@@ -34,7 +39,7 @@ Install the following module for pelican inside `attila-demo` folder
     source .venv/bin/activate
     pip3 install -U pelican Markdown ghp-import invoke awscli pysvg Pygments requests webassets pillow jsmin cssmin BeautifulSoup4
 
-To activate virtualenv in windows
+To activate virtualenv in windows(git-bash)
 
     source .venv/Scripts/activate
 
@@ -46,6 +51,21 @@ To activate virtualenv in windows
 
 ### Convert to your blog
 
+* Change [author](https://github.com/arulrajnet/attila-demo/blob/master/pelicanconf.py#L5), sitename and description
+* Change [social](https://github.com/arulrajnet/attila-demo/blob/master/pelicanconf.py#L39) links
+* Change [disqus](https://github.com/arulrajnet/attila-demo/blob/master/pelicanconf.py#L122) and google analytics
+* Change [author bio](https://github.com/arulrajnet/attila-demo/blob/master/pelicanconf.py#L146)
+* Change [site url](https://github.com/arulrajnet/attila-demo/blob/master/publishconf.py#L13)
+* Delete existing content. `rm -rf content/*`
+* Update the git config and push to your repo
+
+```
+rm -rf .git
+git init
+git remote add origin https://github.com/username/new-repository.git
+git branch -M main
+git push -u origin main
+```
 
 ### Build
 
@@ -65,8 +85,7 @@ Then visit [http://localhost:8000](http://localhost:8000)
 
 **To publish**
 
-    invoke publish
-    invoke gh_pages
+    invoke gh-pages
 
 OR
 
