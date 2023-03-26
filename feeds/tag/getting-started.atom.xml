@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Attila Demo - Getting Started</title><link href="https://attila.demo.arulraj.net/" rel="alternate"></link><link href="https://attila.demo.arulraj.net/feeds/tag/getting-started.atom.xml" rel="self"></link><id>https://attila.demo.arulraj.net/</id><updated>2022-09-18T23:57:38+05:30</updated><subtitle>Blog description here.</subtitle><entry><title>Welcome to Ghost</title><link href="https://attila.demo.arulraj.net/2015/11/welcome-to-ghost.html" rel="alternate"></link><published>2015-11-01T00:30:00+05:30</published><updated>2022-09-18T23:57:38+05:30</updated><author><name>zutrinken</name></author><id>tag:attila.demo.arulraj.net,2015-11-01:/2015/11/welcome-to-ghost.html</id><summary type="html">&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Attila Demo - Getting Started</title><link href="https://attila.demo.arulraj.net/" rel="alternate"></link><link href="https://attila.demo.arulraj.net/feeds/tag/getting-started.atom.xml" rel="self"></link><id>https://attila.demo.arulraj.net/</id><updated>2022-09-19T05:27:38+05:30</updated><subtitle>Blog description here.</subtitle><entry><title>Welcome to Ghost</title><link href="https://attila.demo.arulraj.net/2015/11/welcome-to-ghost.html" rel="alternate"></link><published>2015-11-01T00:30:00+05:30</published><updated>2022-09-19T05:27:38+05:30</updated><author><name>zutrinken</name></author><id>tag:attila.demo.arulraj.net,2015-11-01:/2015/11/welcome-to-ghost.html</id><summary type="html">&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to
 the Ghost editor and get you started. You can manage your content by
 signing in to the admin area at &lt;tt class="docutils literal"&gt;&amp;lt;your blog &lt;span class="pre"&gt;URL&amp;gt;/ghost/&lt;/span&gt;&lt;/tt&gt;. When you
 arrive, you can select this post from a list on the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to
@@ -41,7 +41,7 @@ Ghost website&lt;/a&gt;. Neat.&lt;/p&gt;
 &lt;h2&gt;What about Images?&lt;/h2&gt;
 &lt;p&gt;Images work too! Already know the URL of the image you want to include
 in your article? Simply paste it in like this to make it show up:&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external image-reference" href="https://ghost.org/images/ghost.png"&gt;&lt;img alt="Image" src="https://ghost.org/images/ghost.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://ghost.org/images/ghost.png"&gt;&lt;img alt="Image" src="https://ghost.org/images/ghost.png" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Not sure which image you want to use yet? That's ok too. Leave yourself
 a descriptive placeholder and keep writing. Come back later and drag and
 drop the image in to upload:&lt;/p&gt;
