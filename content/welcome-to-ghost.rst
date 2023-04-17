@@ -4,6 +4,7 @@ Welcome to Pelican
 :author: pelican
 :tags: Getting Started
 :slug: welcome-to-pelican
+:disqus_identifier: /2015/11/welcome-to-ghost.html
 
 You're live! Nice. We've put together a little post to introduce you to
 the Ghost editor and get you started. You can manage your content by

@@ -6,6 +6,7 @@ Featured Color Header View
 :slug: featured-color-header-view
 :color: cyan
 :category: examples
+:disqus_identifier: /2015/11/featured-color-header-view.html
 
 
 Chocolate tiramisu pastry cotton candy sesame snaps. Dessert cake

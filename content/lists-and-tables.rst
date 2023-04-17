@@ -4,6 +4,7 @@ Lists and Tables
 :author: pelican
 :tags: General
 :slug: lists-and-tables
+:disqus_identifier: /2015/11/lists-and-tables.html
 
 Jelly beans pudding oat cake pie. Cupcake cupcake oat cake candy lemon
 drops marzipan icing. Dessert topping croissant fruitcake sesame snaps.

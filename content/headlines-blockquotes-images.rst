@@ -3,6 +3,7 @@
 :tags: General, Cupcake
 :slug: headlines-blockquotes-images
 :title: Headlines, Blockquotes & Images
+:disqus_identifier: /2015/11/headlines-blockquotes-images.html
 
 Chocolate tiramisu pastry cotton candy sesame snaps. Dessert cake
 chocolate bar sugar plum bonbon marshmallow lollipop toffee soufflé.

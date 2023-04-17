@@ -4,6 +4,7 @@ author: pelican
 tags: General
 slug: featured-images-for-the-detail-view
 og_image: assets/images/4BQLVS45VD.jpg
+disqus_identifier: /2015/11/featured-images-for-the-detail-view.html
 
 **Hi there and welcome to Attila - theme for the blogging platform [Pelican](http://getpelican.com/). Attila is open source and can be found on [GitHub](https://github.com/arulrajnet/attila). This article is just a demo post and shows you the style of common used elements.**
 

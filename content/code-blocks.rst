@@ -4,6 +4,7 @@ Code Blocks
 :author: pelican
 :tags: General
 :slug: code-blocks
+:disqus_identifier: /2015/11/code-blocks.html
 
 Wafer gummies lollipop pastry cotton candy chocolate cake sweet roll.
 Cupcake caramels brownie gummi bears. Sweet fruitcake chocolate bear
