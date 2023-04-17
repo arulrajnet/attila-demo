@@ -1,13 +1,13 @@
-Welcome to Ghost
-################
+Welcome to Pelican
+###################
 :date: 2015-11-01 00:30
-:author: zutrinken
+:author: pelican
 :tags: Getting Started
-:slug: welcome-to-ghost
+:slug: welcome-to-pelican
 
 You're live! Nice. We've put together a little post to introduce you to
 the Ghost editor and get you started. You can manage your content by
-signing in to the admin area at ``<your blog URL>/ghost/``. When you
+signing in to the admin area at ``<your blog URL>``. When you
 arrive, you can select this post from a list on the left and see a
 preview of it on the right. Click the little pencil icon at the top of
 the preview to edit this post and read the next section!
@@ -39,9 +39,9 @@ Links
 ------------------------------
 
 Want to link to a source? No problem. If you paste in a URL, like
-http://ghost.org - it'll automatically be linked up. But if you want to
+https://docs.getpelican.com/en/latest/ - it'll automatically be linked up. But if you want to
 customise your anchor text, you can do that too! Here's a link to `the
-Ghost website <http://ghost.org>`__. Neat.
+Pelican docs website <https://docs.getpelican.com/en/latest/>`__. Neat.
 
 What about Images?
 -------------------------------------------
@@ -96,6 +96,5 @@ plain old HTML and it'll still work! Very flexible.
 That should be enough to get you started. Have fun - and let us know
 what you think :)
 
-.. |Image| image:: https://ghost.org/images/ghost.png
-   :target: https://ghost.org/images/ghost.png
-
+.. |Image| image:: https://getpelican.com/theme/img/logo.svg
+   :target: https://getpelican.com/theme/img/logo.svg

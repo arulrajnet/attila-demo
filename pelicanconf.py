@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Zutrinken'
+AUTHOR = u'Pelican'
 SITENAME = u'Attila Demo'
 SITESUBTITLE = u'Blog description here.'
 SITEURL = ''
@@ -37,11 +37,12 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 
 # Social widget
 SOCIAL = (('Facebook', 'http://facebook.com/arulraj.net'),
-          ('Twitter', 'http://twitter.com/arulrajnet')
+          ('Twitter', 'http://twitter.com/getpelican'),
+          ('Github', 'https://github.com/getpelican/pelican')
           )
 
 # Pagination
-DEFAULT_PAGINATION = 3
+DEFAULT_PAGINATION = 5
 PAGINATION_PATTERNS = (
     (1, '{base_name}/', '{base_name}/index.html'),
     (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
@@ -59,25 +60,32 @@ EXTRA_PATH_METADATA = {
 }
 
 # Post and Pages path
-ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}.html'
-ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}.html'
+ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
 PAGE_URL = 'pages/{slug}/'
 PAGE_SAVE_AS = 'pages/{slug}/index.html'
 YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%m}/index.html'
 
 # Tags and Category path
-CATEGORY_URL = 'category/{slug}'
+CATEGORY_URL = 'category/{slug}/'
 CATEGORY_SAVE_AS = 'category/{slug}/index.html'
-CATEGORIES_SAVE_AS = 'categories.html'
-TAG_URL = 'tag/{slug}'
+CATEGORIES_URL = 'category/'
+CATEGORIES_SAVE_AS = 'category/index.html'
+TAG_URL = 'tag/{slug}/'
 TAG_SAVE_AS = 'tag/{slug}/index.html'
-TAGS_SAVE_AS = 'tags.html'
+TAGS_URL = 'tag/'
+TAGS_SAVE_AS = 'tag/index.html'
 
 # Author
-AUTHOR_URL = 'author/{slug}'
+AUTHOR_URL = 'author/{slug}/'
 AUTHOR_SAVE_AS = 'author/{slug}/index.html'
-AUTHORS_SAVE_AS = 'authors.html'
+AUTHORS_URL = 'author/'
+AUTHORS_SAVE_AS = 'author/index.html'
+
+#Archives
+ARCHIVES_URL = 'archive/'
+ARCHIVES_SAVE_AS = 'archive/index.html'
 
 # To show the line numbers for code blocks
 # Refer https://docs.getpelican.com/en/stable/settings.html?highlight=MARKDOWN#basic-settings
@@ -130,7 +138,7 @@ THEME = 'attila'
 ### Theme specific settings
 
 # To set background image for the home page.
-HOME_COVER = 'https://images.unsplash.com/photo-1600884877875-065ed42abbd1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2582&q=80'
+# HOME_COVER = 'https://images.unsplash.com/photo-1600884877875-065ed42abbd1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2582&q=80'
 
 # Custom Header
 
@@ -161,11 +169,11 @@ CATEGORY_META = {
 }
 
 AUTHOR_META = {
-  "zutrinken": {
-    "name": "Zutrinken A'Mende",
+  "pelican": {
+    "name": "Some Writer",
     "cover": "https://images.unsplash.com/photo-1510146758428-e5e4b17b8b6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     "image": "assets/images/avatar.png",
-    "website": "https://arulraj.net",
+    "website": "https://getpelican.com/",
     "linkedin": "arulrajnet",
     "github": "arulrajnet",
     "location": "Chennai",
@@ -173,7 +181,11 @@ AUTHOR_META = {
   }
 }
 
-MENUITEMS = (('Home', '/'),)
+MENUITEMS = (('Home', '/'),
+             ('Tag', '/tag/getting-started/'),
+             ('Author', '/author/pelican/'),
+             ('Category', '/category/examples/'),
+             ('Plugins', 'https://github.com/pelican-plugins'))
 
 SHOW_ARTICLE_MODIFIED_TIME = False
 SHOW_AUTHOR_BIO_IN_ARTICLE = False

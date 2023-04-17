@@ -1,7 +1,7 @@
 Lists and Tables
 ################
 :date: 2015-11-01 01:12
-:author: zutrinken
+:author: pelican
 :tags: General
 :slug: lists-and-tables
 

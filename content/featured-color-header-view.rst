@@ -1,7 +1,7 @@
 Featured Color Header View
 ###################################
 :date: 2015-11-10 21:54
-:author: zutrinken
+:author: pelican
 :tags: General
 :slug: featured-color-header-view
 :color: cyan

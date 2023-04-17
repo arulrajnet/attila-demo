@@ -1,7 +1,7 @@
 Code Blocks
 ###########
 :date: 2015-11-01 00:45
-:author: zutrinken
+:author: pelican
 :tags: General
 :slug: code-blocks
 

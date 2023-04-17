@@ -1,6 +1,6 @@
 Title: Code block for markdown
 Date: 2015-11-01 00:45
-Author: zutrinken
+Author: pelican
 Tags: General
 Slug: code-blocks-for-markdown
 Status: published

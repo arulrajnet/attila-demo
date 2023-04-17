@@ -1,5 +1,5 @@
 :date: 2015-11-01 01:25
-:author: zutrinken
+:author: pelican
 :tags: General, Cupcake
 :slug: headlines-blockquotes-images
 :title: Headlines, Blockquotes & Images
