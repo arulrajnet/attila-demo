@@ -100,7 +100,8 @@ PLUGIN_PATHS = [
 PLUGINS = [
   'sitemap',
   'neighbors',
-  'assets'
+  'assets',
+  'post_stats',
 ]
 
 # Sitemap
@@ -128,22 +129,38 @@ THEME = 'attila'
 
 ### Theme specific settings
 
-# This is deprecated. Will be removed in future releases.
-# Work around will be use HOME_COVER and use cover in individual articles.
-# HEADER_COVER = 'https://casper.ghost.org/v1.0.0/images/welcome.jpg'
-
-# This is deprecated. Will be removed in future releases.
-# Work around will be use HOME_COLOR and use color in individual articles.
-# HEADER_COLOR = 'black'
-
 # To set background image for the home page.
 HOME_COVER = 'https://images.unsplash.com/photo-1600884877875-065ed42abbd1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2582&q=80'
 
 # Custom Header
 
-HEADER_COVERS_BY_TAG = {'cupcake': 'assets/images/rainbow_cupcake_cover.png', 'general':'https://images.unsplash.com/photo-1486427944299-d1955d23e34d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80'}
+TAG_META = {
+  "cupcake": {
+    "cover": "assets/images/rainbow_cupcake_cover.png",
+    "description": "Cupcake ipsum dolor sit amet. Topping",
+  },
+  "general": {
+    "cover": "https://images.unsplash.com/photo-1486427944299-d1955d23e34d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "description": "General ipsum dolor sit amet. Topping"
+  },
+  "getting started": {
+    "color": "MediumSeaGreen",
+    "description": "Getting Started ipsum dolor sit amet. Topping"
+  }
+}
 
-AUTHORS_BIO = {
+CATEGORY_META = {
+  "examples": {
+    "cover": "https://images.unsplash.com/photo-1645113720391-279a153b4f53?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2073&q=80",
+    "description": "Examples ipsum dolor sit amet. Topping"
+  },
+  "misc": {
+    "color": "SlateBlue",
+    "description": "Misc ipsum dolor sit amet. Topping"
+  }
+}
+
+AUTHOR_META = {
   "zutrinken": {
     "name": "Zutrinken A'Mende",
     "cover": "https://images.unsplash.com/photo-1510146758428-e5e4b17b8b6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
@@ -155,6 +172,18 @@ AUTHORS_BIO = {
     "bio": "This is the place for a small biography with max 200 characters. Well, now 100 are left. Cool, hugh?"
   }
 }
+
+MENUITEMS = (('Home', '/'),)
+
+SHOW_ARTICLE_MODIFIED_TIME = False
+SHOW_AUTHOR_BIO_IN_ARTICLE = False
+SHOW_CATEGORIES_ON_MENU = False
+SHOW_COMMENTS_COUNT_IN_ARTICLE_SUMMARY = True
+SHOW_CREDITS = True
+SHOW_FULL_ARTICLE_IN_SUMMARY = False
+SHOW_PAGES_ON_MENU = True
+SHOW_SITESUBTITLE_IN_HTML_TITLE = False
+SHOW_TAGS_IN_ARTICLE_SUMMARY = False
 
 CSS_OVERRIDE = ['assets/css/myblog.css']
 
