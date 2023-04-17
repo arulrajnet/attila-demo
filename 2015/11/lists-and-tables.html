@@ -16,19 +16,21 @@
   <meta name="generator" content="Pelican" />
 <link href="https://attila.demo.arulraj.net/2015/11/lists-and-tables.html" rel="canonical" />
   <!-- Feed -->
-        <link href="https://attila.demo.arulraj.net/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Attila Demo Full Atom Feed" />
-          <link href="https://attila.demo.arulraj.net/feeds/misc.atom.xml" type="application/atom+xml" rel="alternate" title="Attila Demo Categories Atom Feed" />
+  <link href="https://attila.demo.arulraj.net/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+    title="Attila Demo Full Atom Feed" />
+  <link href="https://attila.demo.arulraj.net/feeds/misc.atom.xml" type="application/atom+xml"
+    rel="alternate" title="Attila Demo Categories Atom Feed" />
 
   <link href="https://attila.demo.arulraj.net/theme/css/style.css" type="text/css" rel="stylesheet" />
 
-    <!-- CSS specified by the user -->
+  <!-- CSS specified by the user -->
 
 
-    <link href="https://attila.demo.arulraj.net/assets/css/myblog.css" type="text/css" rel="stylesheet" />
+  <link href="https://attila.demo.arulraj.net/assets/css/myblog.css" type="text/css" rel="stylesheet" />
 
-    <!-- Custom fonts -->
-    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,300' rel='stylesheet' type='text/css' />
-    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
+  <!-- Custom fonts -->
+  <link href='https://fonts.googleapis.com/css?family=Montserrat:400,300' rel='stylesheet' type='text/css' />
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -36,6 +38,28 @@
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
+
+  <script>
+    var siteUrl = 'https://attila.demo.arulraj.net';
+  </script>
+
+  <script>
+    var localTheme = localStorage.getItem('attila_theme');
+    switch (localTheme) {
+      case 'dark':
+        document.documentElement.classList.add('theme-dark');
+        break;
+      case 'light':
+        document.documentElement.classList.add('theme-light');
+        break;
+      default:
+        break;
+    }
+  </script>
+
+
+
+
 
 
 
@@ -56,7 +80,7 @@
 <meta prefix="og: http://ogp.me/ns#" property="og:url" content="https://attila.demo.arulraj.net/2015/11/lists-and-tables.html"/>
 <meta prefix="og: http://ogp.me/ns#" property="og:type" content="article"/>
 <meta prefix="og: http://ogp.me/ns#" property="article:published_time" content="2015-11-01 01:12:00+05:30"/>
-<meta prefix="og: http://ogp.me/ns#" property="article:modified_time" content="2022-09-19 05:27:38.446219+05:30"/>
+<meta prefix="og: http://ogp.me/ns#" property="article:modified_time" content="2023-03-27 05:09:45.346614+05:30"/>
 <meta prefix="og: http://ogp.me/ns#" property="article:author" content="https://attila.demo.arulraj.net/author/zutrinken">
   <meta prefix="og: http://ogp.me/ns#" property="article:publisher" content="http://facebook.com/arulraj.net" />
 <meta prefix="og: http://ogp.me/ns#" property="article:section" content="misc"/>
@@ -80,10 +104,10 @@
   "name": "Lists and Tables",
   "headline": "Lists and Tables",
   "datePublished": "2015-11-01 01:12:00+05:30",
-  "dateModified": "2022-09-19 05:27:38.446219+05:30",
+  "dateModified": "2023-03-27 05:09:45.346614+05:30",
   "author": {
     "@type": "Person",
-    "name": "zutrinken",
+    "name": "Zutrinken",
     "url": "https://attila.demo.arulraj.net/author/zutrinken"
   },
   "image": "https://attila.demo.arulraj.net/theme/images/post-bg.jpg",
@@ -92,61 +116,86 @@
 }
 </script>
 </head>
-<!-- TODO : Body class -->
-<body class="home-template">
 
-<nav id="menu">
-  <a class="close-button">Close</a>
-  <div class="nav-wrapper">
-    <p class="nav-label">Menu</p>
-    <ul>
 
-              <li role="presentation"><a href="https://attila.demo.arulraj.net/pages/about/">About</a></li>
 
-    </ul>
+
+
+
+<body class="category-template">
+
+<div class="nav-header">
+  <nav class="nav-wrapper" aria-label="Main">
+<ul>
+
+    <li class="nav-Home " role="presentation"><a href="/"><span>Home</span></a></li>
+
+      <li role="presentation"><a href="https://attila.demo.arulraj.net/pages/about/"><span>About</span></a></li>
+</ul>
+<ul class="nav-meta">
+    <li class="nav-facebook"><a aria-label="Facebook" href="http://facebook.com/arulraj.net" target="_blank"><i class="icon icon-facebook" aria-hidden="true"></i>
+    <span>Facebook</span>
+    </a></li>
+    <li class="nav-twitter"><a aria-label="Twitter" href="http://twitter.com/arulrajnet" target="_blank"><i class="icon icon-twitter" aria-hidden="true"></i>
+    <span>Twitter</span>
+    </a></li>
+  <li class="nav-search" style="display: none;">
+    <a title="Search">
+      <i class="icon icon-search" aria-hidden="true"></i>
+      <span>Search</span>
+    </a>
+  </li>
+</ul>  </nav>
+
+  <div class="nav-wrapper-control">
+    <div class="inner">
+      <a class="nav-menu" role="button"><i class="icon icon-menu" aria-hidden="true"></i>Menu</a>
+      <a class="nav-search" title="Search" role="button"><i class="icon icon-search" aria-hidden="true"></i></a>
+    </div>
   </div>
-</nav>
+</div>
+<div class="nav-close" role="button" aria-label="Close"></div>
+  <section id="wrapper" class="page-wrapper">
     <!-- Progressbar -->
     <div class="progress-container">
-        <span class="progress-bar"></span>
+      <span class="progress-bar"></span>
     </div>
 
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header id="post-header" >
+    <header class="post-header ">
       <div class="inner">
-        <nav id="navigation">
-            <span id="home-button" class="nav-button">
-                <a class="home-button" href="https://attila.demo.arulraj.net/" aria-label="Home" title="Home">
-                  <i class="ic ic-arrow-left" aria-hidden="true"></i>
-                  <span>Home</span>
-                </a>
-            </span>
-          <span id="menu-button" class="nav-button">
-            <a class="menu-button" aria-label="Menu">
-              <i class="ic ic-menu" aria-hidden="true"></i>
-              <span>Menu</span>
-            </a>
-          </span>
-        </nav>
-        <h1 class="post-title">Lists and Tables</h1>
-        <!-- TODO : Proper class for headline -->
-        <span class="post-meta">
-                <a href="https://attila.demo.arulraj.net/author/zutrinken">Zutrinken A'Mende</a>
-            | <time datetime="01 Nov 2015">01 Nov 2015</time>
+        <span class="post-info">
+          <span class="post-type">Article</span>
+          <span class="post-count">Misc</span>
         </span>
+        <h1 class="post-title">Lists and Tables</h1>
+        <div class="post-meta">
+          <div class="post-meta-avatars">
+
+
+            <figure class="post-meta-avatar avatar">
+              <a class="author-avatar" href="https://attila.demo.arulraj.net/author/zutrinken">
+                <img class="author-profile-image" src="https://attila.demo.arulraj.net/assets/images/avatar.png" alt="Zutrinken A'Mende" />
+              </a>
+            </figure>
+          </div>
+
+          <h4 class="post-meta-author">
+            Zutrinken A'Mende
+          </h4>
+          <time datetime="01 Nov 2015">01 Nov 2015</time>
+          &bull; 1 min read
+        </div>
       </div>
     </header>
-
-  <section id="wrapper">
-    <a class="hidden-close"></a>
 
     <!-- Post content -->
     <main class="content" role="main">
         <article class="post">
         <div class="inner">
-            <section class="post-content">
-                <p>Jelly beans pudding oat cake pie. Cupcake cupcake oat cake candy lemon
+          <section class="post-content">
+            <p>Jelly beans pudding oat cake pie. Cupcake cupcake oat cake candy lemon
 drops marzipan icing. Dessert topping croissant fruitcake sesame snaps.
 Cotton candy sweet danish sweet roll sweet sugar plum donut. Bear claw
 gingerbread cake donut chocolate bar topping cake fruitcake fruitcake.</p>
@@ -216,100 +265,91 @@ sweet roll sweet sugar plum donut.</p>
 </table>
 </div>
 
-            </section>
-
-            <section class="post-info">
-                <div class="post-share">
-                    <a title="Twitter" aria-label="Twitter" class="twitter" href="https://twitter.com/share?text=Lists and Tables&amp;url=https://attila.demo.arulraj.net/2015/11/lists-and-tables.html" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
-                      <i class="ic ic-twitter" aria-hidden="true"></i><span class="hidden">Twitter</span>
-                    </a>
-                    <a title="Facebook" aria-label="Facebook" class="facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://attila.demo.arulraj.net/2015/11/lists-and-tables.html" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
-                      <i class="ic ic-facebook" aria-hidden="true"></i><span class="hidden">Facebook</span>
-                    </a>
-                    <a title="LinkedIn" aria-label="LinkedIn" class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://attila.demo.arulraj.net/2015/11/lists-and-tables.html&amp;title=Lists and Tables" onclick="window.open(this.href, 'linkedin-share', 'width=930,height=720');return false;">
-                      <i class="ic ic-linkedin" aria-hidden="true"></i><span class="hidden">LinkedIn</span>
-                    </a>
-                    <a title="Email" aria-label="Email" class="email" href="mailto:?subject=Lists and Tables&amp;body=https://attila.demo.arulraj.net/2015/11/lists-and-tables.html">
-                      <i class="ic ic-mail" aria-hidden="true"></i><span class="hidden">Email</span>
-                    </a>
-                    <div class="clear"></div>
-                </div>
-
-                <aside class="post-tags">
-<a href="https://attila.demo.arulraj.net/tag/general">General</a>                </aside>
-
-                <div class="clear"></div>
-
-                <aside class="post-author">
+          </section>
 
 
-                        <figure class="post-author-avatar">
-                            <img src="https://attila.demo.arulraj.net/assets/images/avatar.png" alt="Zutrinken A'Mende" />
-                        </figure>
-                    <div class="post-author-bio">
-                        <h4 class="post-author-name"><a href="https://attila.demo.arulraj.net/author/zutrinken">Zutrinken A'Mende</a></h4>
-                            <p class="post-author-about">This is the place for a small biography with max 200 characters. Well, now 100 are left. Cool, hugh?</p>
-                            <span class="post-author-location"><i class="ic ic-location"></i> Chennai</span>
-                            <span class="post-author-website"><a href="https://arulraj.net"><i class="ic ic-globe"></i> Website</a></span>
-                        <!-- Social linkes in alphabet order. -->
-                            <span class="post-author-github"><a target="_blank" href="https://github.com/arulrajnet"><i class="ic ic-github"></i> GitHub</a></span>
-                            <span class="post-author-linkedin"><a target="_blank" href="https://www.linkedin.com/in/arulrajnet"><i class="ic ic-linkedin"></i> LinkedIn</a></span>
-                    </div>
-                    <div class="clear"></div>
-                </aside>
-
-                </section>
-
-                <script type="text/javascript">
-                    var disqus = 'attilademo';
-                    var disqus_shortname = 'attilademo';
-                    var disqus_identifier = '/2015/11/lists-and-tables.html';
-                    var disqus_url = 'https://attila.demo.arulraj.net/2015/11/lists-and-tables.html';
-                </script>
-                <noscript>Please enable JavaScript to view the comments.</noscript>
-                <section class="post-comments">
-                        <a id="show-disqus" class="post-comments-activate" data-disqus-identifier="/2015/11/lists-and-tables.html" >Show Comments</a>
-                    <div id="disqus_thread"></div>
-                </section>
-
-                <aside class="post-nav">
-                    <a class="post-nav-next" href="https://attila.demo.arulraj.net/2015/11/headlines-blockquotes-images.html">
-                        <section class="post-nav-teaser">
-                            <i class="ic ic-arrow-left"></i>
-                                <h2 class="post-nav-title">Headlines, Blockquotes & Images</h2>
-                            <p class="post-nav-excerpt">Chocolate tiramisu pastry cotton candy sesame snaps. Dessert cake chocolate bar sugar...</p>
-                        </section>
-                    </a>
-                    <a class="post-nav-prev" href="https://attila.demo.arulraj.net/2015/11/code-blocks.html">
-                        <section class="post-nav-teaser">
-                            <i class="ic ic-arrow-right"></i>
-                                <h2 class="post-nav-title">Code Blocks</h2>
-                            <p class="post-nav-excerpt">Wafer gummies lollipop pastry cotton candy chocolate cake sweet roll. Cupcake caramels...</p>
-                        </section>
-                    </a>
-                    <div class="clear"></div>
-                </aside>
-
+          <section class="post-footer" >
+            <div class="post-share">
+              <span class="post-info-label">Share</span>
+              <a title="Twitter" aria-label="Twitter" class="twitter" href="https://twitter.com/share?text=Lists and Tables&amp;url=https://attila.demo.arulraj.net/2015/11/lists-and-tables.html" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                <i class="icon icon-twitter" aria-hidden="true"></i><span class="hidden">Twitter</span>
+              </a>
+              <a title="Facebook" aria-label="Facebook" class="facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://attila.demo.arulraj.net/2015/11/lists-and-tables.html" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                <i class="icon icon-facebook" aria-hidden="true"></i><span class="hidden">Facebook</span>
+              </a>
+              <a title="LinkedIn" aria-label="LinkedIn" class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://attila.demo.arulraj.net/2015/11/lists-and-tables.html&amp;title=Lists and Tables" onclick="window.open(this.href, 'linkedin-share', 'width=930,height=720');return false;">
+                <i class="icon icon-linkedin" aria-hidden="true"></i><span class="hidden">LinkedIn</span>
+              </a>
+              <a title="Email" aria-label="Email" class="email" href="mailto:?subject=Lists and Tables&amp;body=https://attila.demo.arulraj.net/2015/11/lists-and-tables.html">
+                <i class="icon icon-mail" aria-hidden="true"></i><span class="hidden">Email</span>
+              </a>
+              <div class="clear"></div>
             </div>
-        </article>
+
+            <aside class="post-tags">
+<a href="https://attila.demo.arulraj.net/tag/general">General</a>            </aside>
+
+            <div class="clear"></div>
+
+
+          </section>
+
+          <script type="text/javascript">
+            var disqus = 'attilademo';
+            var disqus_shortname = 'attilademo';
+            var disqus_identifier = '/2015/11/lists-and-tables.html';
+            var disqus_url = 'https://attila.demo.arulraj.net/2015/11/lists-and-tables.html';
+          </script>
+          <noscript>Please enable JavaScript to view the comments.</noscript>
+          <section class="post-comments">
+              <a id="show-disqus" class="post-comments-activate" data-disqus-identifier="/2015/11/lists-and-tables.html" >Show Comments</a>
+            <div id="disqus_thread"></div>
+          </section>
+
+          <aside class="post-nav">
+            <a class="post-nav-next" href="https://attila.demo.arulraj.net/2015/11/headlines-blockquotes-images.html">
+              <section class="post-nav-teaser">
+                <i class="icon icon-arrow-left"></i>
+                  <h2 class="post-nav-title">Headlines, Blockquotes & Images</h2>
+                <p class="post-nav-excerpt">Chocolate tiramisu pastry cotton candy sesame snaps. Dessert cake chocolate bar sugar...</p>
+                <p class="post-nav-meta"><time datetime="01 Nov 2015">01 Nov 2015</time></p>
+              </section>
+            </a>
+            <a class="post-nav-prev" href="https://attila.demo.arulraj.net/2015/11/code-blocks.html">
+              <section class="post-nav-teaser">
+                <i class="icon icon-arrow-right"></i>
+                  <h2 class="post-nav-title">Code Blocks</h2>
+                <p class="post-nav-excerpt">Wafer gummies lollipop pastry cotton candy chocolate cake sweet roll. Cupcake caramels...</p>
+                <p class="post-nav-meta"><time datetime="01 Nov 2015">01 Nov 2015</time></p>
+              </section>
+            </a>
+            <div class="clear"></div>
+          </aside>
+
+        </div>
+      </article>
     </main>
-      <!-- TODO : Body class -->
-    <div id="body-class" style="display: none;" class=""></div>
+    <div class="nav-footer">
+      <nav class="nav-wrapper" aria-label="Footer">
+        <span class="nav-copy">Attila Demo &copy; 2023
+        </span>
+        <span class="nav-credits">
 
-    <footer id="footer">
-      <div class="inner">
-        <section class="credits">
 
 
-          <span class="credits-theme">Theme <a href="https://github.com/arulrajnet/attila" rel="nofollow">Attila</a></span>
-          <span class="credits-software">Published with <a href="https://github.com/getpelican/pelican" rel="nofollow">Pelican</a></span>
-        </section>
-      </div>
-    </footer>
+          Published with <a href="https://github.com/getpelican/pelican" rel="nofollow">Pelican</a> &bull; Theme <a href="https://github.com/arulrajnet/attila" rel="nofollow">Attila</a> &bull;
+          <a class="menu-item js-theme" href="#" data-system="System theme" data-dark="Dark theme" data-light="Light theme">
+            <span class="theme-icon"></span><span class="theme-text">System theme</span>
+          </a>
+        </span>
+      </nav>
+    </div>
+
   </section>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+  <script type="text/javascript" src="https://attila.demo.arulraj.net/theme/js/jquery.fitvids.js"></script>
   <script type="text/javascript" src="https://attila.demo.arulraj.net/theme/js/script.js"></script>
 
     <!-- Global Site Tag (gtag.js) - Google Analytics -->
@@ -329,5 +369,84 @@ sweet roll sweet sugar plum donut.</p>
         (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
     }());
 </script>
+
+  <!-- 	The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in article.html, but it needs to be included down here, after jQuery has already loaded. -->
+
+<script>
+  $(document).ready(function () {
+    var viewport = $(window);
+    var post = $('.post-content');
+    // Responsive videos with fitVids
+    post.fitVids();
+
+    var mdSelector=".highlight pre";
+    var rstSelector=".highlight pre";
+    var selector=rstSelector;
+    // Format code blocks and add line numbers
+    function codestyling() {
+      $(selector).each(function(i, e) {
+        // Code highlight
+        hljs.highlightElement(e);
+        // No lines for plain text blocks
+        if (!$(this).hasClass('language-text')) {
+          var code = $(this);
+          // Calculate amount of lines
+          var lines = code.html().split(/\n(?!$)/g).length;
+          var numbers = [];
+          if (lines > 1) {
+            lines++;
+          }
+          for (i = 1; i < lines; i++) {
+            numbers += '<span class="line" aria-hidden="true">' + i + '</span>';
+          }
+          code.parent().append('<div class="lines">' + numbers + '</div>');
+        }
+      });
+    }
+
+    // Format code blocks only
+    function codestylingWithoutLineNumbers() {
+      $(selector).each(function(i, e) {
+        // Code highlight
+        hljs.highlightElement(e);
+      });
+    }
+
+    codestylingWithoutLineNumbers();
+    // Reading progress bar on window top
+    function readingProgress() {
+      var postBottom = post.offset().top + post.height();
+      var viewportHeight = viewport.height();
+      var progress = 100 - (((postBottom - (viewport.scrollTop() + viewportHeight) + viewportHeight / 3) / (postBottom - viewportHeight + viewportHeight / 3)) * 100);
+      $('.progress-bar').css('width', progress + '%');
+      (progress > 100) ? $('.progress-container').addClass('complete'): $('.progress-container').removeClass('complete');
+    }
+    readingProgress();
+    // Trigger reading progress
+    viewport.on({
+      'scroll': function() {
+        readingProgress();
+      },
+      'resize': function() {
+        readingProgress();
+      },
+      'orientationchange': function() {
+        readingProgress();
+      }
+    });
+
+      var disqus = 'attilademo';
+      $('#show-disqus').on('click', function() {
+        $.ajax({
+          type: "GET",
+          url: "//" + disqus + ".disqus.com/embed.js",
+          dataType: "script",
+          cache: true
+        });
+        $(this).parent().addClass('activated');
+      });
+  });
+</script>
 </body>
+
 </html>
