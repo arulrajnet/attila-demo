@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Pelican'
 SITENAME = u'Attila Demo'
 SITESUBTITLE = u'Blog description here.'
-SITEURL = ''
+SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
 

@@ -4,7 +4,7 @@ Author: pelican
 Tags: General
 Slug: code-blocks-for-markdown
 Status: published
-disqus_identifier: /2015/11/01/code-blocks-for-markdown.html
+disqus_identifier: /2015/11/code-blocks-for-markdown.html
 
 
 Wafer gummies lollipop pastry cotton candy chocolate cake sweet roll.
