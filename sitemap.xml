@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://attila.demo.arulraj.net/</loc>
-<lastmod>2023-04-18T03:37:01-00:00</lastmod>
+<lastmod>2023-04-18T03:46:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://attila.demo.arulraj.net/tag/</loc>
-<lastmod>2023-04-18T03:37:01-00:00</lastmod>
+<lastmod>2023-04-18T03:46:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://attila.demo.arulraj.net/category/</loc>
-<lastmod>2023-04-18T03:37:01-00:00</lastmod>
+<lastmod>2023-04-18T03:46:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://attila.demo.arulraj.net/author/</loc>
-<lastmod>2023-04-18T03:37:01-00:00</lastmod>
+<lastmod>2023-04-18T03:46:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://attila.demo.arulraj.net/archive/</loc>
-<lastmod>2023-04-18T03:37:01-00:00</lastmod>
+<lastmod>2023-04-18T03:46:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -82,7 +82,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://attila.demo.arulraj.net/2015/11/code-blocks-for-markdown/</loc>
-<lastmod>2023-04-18T03:16:56+05:30</lastmod>
+<lastmod>2023-04-18T03:40:34+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -103,14 +103,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://attila.demo.arulraj.net/category/misc/</loc>
-<lastmod>2023-04-18T03:18:19+05:53</lastmod>
+<lastmod>2023-04-18T03:40:34+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://attila.demo.arulraj.net/tag/general/</loc>
-<lastmod>2023-04-18T03:18:19+05:53</lastmod>
+<lastmod>2023-04-18T03:40:34+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -131,7 +131,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://attila.demo.arulraj.net/author/pelican/</loc>
-<lastmod>2023-04-18T03:18:19+05:53</lastmod>
+<lastmod>2023-04-18T03:40:34+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
