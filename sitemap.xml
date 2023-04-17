@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://attila.demo.arulraj.net/</loc>
-<lastmod>2023-04-17T21:29:01-00:00</lastmod>
+<lastmod>2023-04-18T03:37:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://attila.demo.arulraj.net/tag/</loc>
-<lastmod>2023-04-17T21:29:01-00:00</lastmod>
+<lastmod>2023-04-18T03:37:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://attila.demo.arulraj.net/category/</loc>
-<lastmod>2023-04-17T21:29:01-00:00</lastmod>
+<lastmod>2023-04-18T03:37:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://attila.demo.arulraj.net/author/</loc>
-<lastmod>2023-04-17T21:29:01-00:00</lastmod>
+<lastmod>2023-04-18T03:37:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://attila.demo.arulraj.net/archive/</loc>
-<lastmod>2023-04-17T21:29:01-00:00</lastmod>
+<lastmod>2023-04-18T03:37:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -47,91 +47,91 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://attila.demo.arulraj.net/2015/11/featured-images-for-the-detail-view/</loc>
-<lastmod>2023-04-17T20:39:00+05:30</lastmod>
+<lastmod>2023-04-18T03:17:48+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://attila.demo.arulraj.net/2015/11/featured-color-header-view/</loc>
-<lastmod>2023-04-17T20:38:55+05:30</lastmod>
+<lastmod>2023-04-18T03:17:29+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://attila.demo.arulraj.net/2015/11/headlines-blockquotes-images/</loc>
-<lastmod>2023-04-17T20:39:04+05:30</lastmod>
+<lastmod>2023-04-18T03:18:05+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://attila.demo.arulraj.net/2015/11/lists-and-tables/</loc>
-<lastmod>2023-04-17T20:39:09+05:30</lastmod>
+<lastmod>2023-04-18T03:18:19+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://attila.demo.arulraj.net/2015/11/code-blocks/</loc>
-<lastmod>2023-04-17T20:38:51+05:30</lastmod>
+<lastmod>2023-04-18T03:17:13+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://attila.demo.arulraj.net/2015/11/code-blocks-for-markdown/</loc>
-<lastmod>2023-04-17T20:38:47+05:30</lastmod>
+<lastmod>2023-04-18T03:16:56+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://attila.demo.arulraj.net/2015/11/welcome-to-pelican/</loc>
-<lastmod>2023-04-17T20:55:26+05:30</lastmod>
+<lastmod>2023-04-18T03:16:17+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://attila.demo.arulraj.net/category/examples/</loc>
-<lastmod>2023-04-17T20:38:55+05:53</lastmod>
+<lastmod>2023-04-18T03:17:29+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://attila.demo.arulraj.net/category/misc/</loc>
-<lastmod>2023-04-17T20:55:26+05:53</lastmod>
+<lastmod>2023-04-18T03:18:19+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://attila.demo.arulraj.net/tag/general/</loc>
-<lastmod>2023-04-17T20:39:09+05:53</lastmod>
+<lastmod>2023-04-18T03:18:19+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://attila.demo.arulraj.net/tag/cupcake/</loc>
-<lastmod>2023-04-17T20:39:04+05:53</lastmod>
+<lastmod>2023-04-18T03:18:05+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://attila.demo.arulraj.net/tag/getting-started/</loc>
-<lastmod>2023-04-17T20:55:26+05:53</lastmod>
+<lastmod>2023-04-18T03:16:17+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://attila.demo.arulraj.net/author/pelican/</loc>
-<lastmod>2023-04-17T20:55:26+05:53</lastmod>
+<lastmod>2023-04-18T03:18:19+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
