@@ -64,7 +64,9 @@ ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
 PAGE_URL = 'pages/{slug}/'
 PAGE_SAVE_AS = 'pages/{slug}/index.html'
+YEAR_ARCHIVE_URL = '{date:%Y}/'
 YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/index.html'
+MONTH_ARCHIVE_URL = '{date:%Y}/{date:%m}/'
 MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%m}/index.html'
 
 # Tags and Category path
@@ -185,6 +187,7 @@ MENUITEMS = (('Home', '/'),
              ('Tag', '/tag/getting-started/'),
              ('Author', '/author/pelican/'),
              ('Category', '/category/examples/'),
+             ('Archives','/2015/11/'),
              ('Plugins', 'https://github.com/pelican-plugins'))
 
 SHOW_ARTICLE_MODIFIED_TIME = False
