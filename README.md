@@ -56,8 +56,8 @@ To activate virtualenv in windows(git-bash)
 
 * Change [author](https://github.com/arulrajnet/attila-demo/blob/master/pelicanconf.py#L5), sitename and description
 * Change [social](https://github.com/arulrajnet/attila-demo/blob/master/pelicanconf.py#L39) links
-* Change [disqus](https://github.com/arulrajnet/attila-demo/blob/master/pelicanconf.py#L122) and google analytics
-* Change [author bio](https://github.com/arulrajnet/attila-demo/blob/master/pelicanconf.py#L146)
+* Change [disqus](https://github.com/arulrajnet/attila-demo/blob/master/pelicanconf.py#L133) and google analytics
+* Change [author bio](https://github.com/arulrajnet/attila-demo/blob/master/pelicanconf.py#L173C1-L173C13)
 * Change [site url](https://github.com/arulrajnet/attila-demo/blob/master/publishconf.py#L13)
 * Delete existing content. `rm -rf content/*`
 * Update the git config and push to your repo.
