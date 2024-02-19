@@ -178,6 +178,8 @@ AUTHOR_META = {
     "website": "https://getpelican.com/",
     "linkedin": "arulrajnet",
     "github": "arulrajnet",
+    "twitter": "arulrajnet",
+    "instagram": "arulrajnet",
     "location": "Chennai",
     "bio": "This is the place for a small biography with max 200 characters. Well, now 100 are left. Cool, hugh?"
   }
