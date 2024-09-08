@@ -1,0 +1,45 @@
+[project]
+requires-python = ">=3.7"
+name = "attila-demo"
+version = "1.0"
+description = "Demo blog for Attila Pelican Theme"
+authors = [
+    { name = "Arulraj Venni", email = "me@arulraj.net"}
+]
+readme = "README.md"
+license = {file = "LICENSE"}
+
+keywords = [
+    'pelican',
+    'pelican-theme',
+    'markdown',
+    'theme',
+    'python',
+    'attila',
+    'attila-theme',
+]
+
+dependencies = [
+    "cssmin == 0.2.0",
+    "jsmin == 3.0.1",
+    "pelican == 4.9.1",
+    "pelican-neighbors == 1.2.0",
+    "pelican-related-posts == 1.0.0",
+    "pelican-seo == 1.2.2",
+    "pelican-sitemap == 1.1.0",
+    "pelican-webassets == 2.0.0",
+    "markdown == 3.7",
+    "ghp-import == 2.1.0",
+    "invoke == 2.2.0",
+    "pysvg == 0.2.2",
+    "attila@git+https://github.com/arulrajnet/attila#egg=master",
+]
+
+[tool.setuptools]
+include-package-data = true
+packages = [
+    "attila-demo",
+]
+
+[tool.setuptools.package-dir]
+"attila-demo" = "."
