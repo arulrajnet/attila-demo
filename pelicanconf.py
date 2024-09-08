@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import attila
 
 AUTHOR = u'Pelican'
 SITENAME = u'Attila Demo'
@@ -135,7 +136,7 @@ DISQUS_SITENAME = "attilademo"
 # Analytics
 GOOGLE_ANALYTICS = "UA-3546274-12"
 
-THEME = 'attila'
+THEME = attila.get_path()
 
 ### Theme specific settings
 

@@ -1,0 +1,33 @@
+name: Build and Publish to GH pages
+
+on:
+  push:
+    branches: [ master, publish-gh-pages ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [ '3.12' ]
+    steps:
+    - name: Checkout and fetch submodule
+      uses: actions/checkout@v4
+      with:
+        submodules: recursive
+    - name: Setup Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v5
+      id: python312
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install dependencies and publish to GH
+      env:
+        PIP_DISABLE_PIP_VERSION_CHECK: on
+        PIP_NO_CACHE_DIR: off
+      run: |
+        which python
+        python --version
+        python -m pip install -U virtualenv
+        python -m virtualenv .venv
+        python -m pip install .
+        make github
