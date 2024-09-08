@@ -2,3 +2,6 @@ output
 *.pyc
 .venv
 attila
+dist
+build
+*.egg-info

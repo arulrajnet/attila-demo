@@ -34,3 +34,12 @@ dependencies = [
     "pysvg == 0.2.2",
     "attila@git+https://github.com/arulrajnet/attila#egg=master",
 ]
+
+[tool.setuptools]
+include-package-data = true
+packages = [
+    "attila-demo",
+]
+
+[tool.setuptools.package-dir]
+"attila-demo" = "."
