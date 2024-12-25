@@ -1,10 +1,11 @@
 Attila Demo
 ----------------
 
-* [Setup](#setup)
-* [Clone and install theme](#clone-and-install-theme)
-* [Convert to your blog](#convert-to-your-blog)
-* [Build](#build)
+- [Attila Demo](#attila-demo)
+  - [Setup](#setup)
+  - [Clone and install theme](#clone-and-install-theme)
+  - [Convert to your blog](#convert-to-your-blog)
+  - [Build](#build)
 
 This is the demo blog of theme [attila](https://github.com/arulrajnet/attila). Blog powered by pelican, hosted on [https://arulrajnet.github.io/attila-demo](https://arulrajnet.github.io/attila-demo)
 
@@ -48,9 +49,15 @@ To activate virtualenv in windows(git-bash)
 
 **Install attila theme**
 
+    pip install git+https://github.com/arulrajnet/attila.git@master
+
+OR
+
     git clone --depth=1 https://github.com/arulrajnet/attila
     pelican-themes -i ${PWD}/attila
     pelican-themes -l
+
+Install using pip is recommended
 
 ### Convert to your blog
 
