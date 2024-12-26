@@ -1,5 +1,5 @@
 /*your custom css styles here*/
-.post-content ul>li::before {
+/* .post-content ul>li::before {
   content: "" !important;
   margin-top: 0px !important;
 }
@@ -18,4 +18,4 @@
 
 .post-content ul>li::marker {
   color: var(--color-primary);
-}
+} */
