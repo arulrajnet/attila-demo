@@ -24,7 +24,7 @@ Bear claw danish chocolate lollipop soufflé jelly. Apple pie chocolate cake
 jelly-o icing bonbon. Gingerbread pastry fruitcake muffin chocolate bar
 cheesecake. Sugar plum bonbon bonbon lemon drops gummies.
 
-## Inline 🦄 text styles + [link](http://ghost.org)
+## Inline 🦄 text styles + [link](http://getpelican.com)
 
 Chocolate tiramisu pastry [a link](http://zutrinken.com) cotton candy sesame
 snaps. Dessert cake chocolate bar **a bold part** sugar plum bonbon 🐓💨

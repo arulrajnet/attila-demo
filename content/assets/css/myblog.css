@@ -1,1 +1,21 @@
 /*your custom css styles here*/
+.post-content ul>li::before {
+  content: "" !important;
+  margin-top: 0px !important;
+}
+
+.post-content ul>li {
+  list-style-type: disc;
+}
+
+.post-content ul>li ul>li {
+  list-style-type: circle;
+}
+
+.post-content ul>li ul>li ul>li {
+  list-style-type: square;
+}
+
+.post-content ul>li::marker {
+  color: var(--color-primary);
+}

@@ -136,3 +136,8 @@ else
     echo "Files are different."
 fi
 ```
+
+Example for block quote
+
+> This is a block quote. The markdown syntax for block quotes is `>`. The link to the markdown syntax for block quotes is [here](https://www.markdownguide.org/basic-syntax/#blockquotes).
+> lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua

@@ -43,6 +43,7 @@ Another JavaScript code block
 Here is the yaml
 
 .. code-block:: yaml
+
     include:
         - infra.yaml
     services:
@@ -60,6 +61,7 @@ Here is the yaml
 Here is the python code
 
 .. code-block:: python
+
     import time
 
     import redis
@@ -88,6 +90,7 @@ Here is the python code
 Here is the JSON
 
 .. code-block:: json
+
     {
         "name": "John",
         "age": 30,
@@ -102,6 +105,7 @@ Here is the JSON
 Here is the golang code
 
 .. code-block:: go
+
     package main
 
     import "fmt"
@@ -136,3 +140,8 @@ Jelly beans pudding oat cake pie. Cupcake cupcake oat cake candy lemon drops mar
     else
         echo "Files are different."
     fi
+
+Example for block quote
+
+    This is a block quote. The markdown syntax for block quotes is `>`. The link to the markdown syntax for block quotes is `here <https://www.markdownguide.org/basic-syntax/#blockquotes>`__.
+    lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
