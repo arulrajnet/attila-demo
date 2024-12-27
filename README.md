@@ -41,13 +41,15 @@ Install the following module for pelican inside `attila-demo` folder
 
     virtualenv .venv
     source .venv/bin/activate
-    pip3 install -U pelican Markdown ghp-import invoke awscli pysvg Pygments requests webassets pillow jsmin cssmin BeautifulSoup4
+    pip install .
 
 To activate virtualenv in windows(git-bash)
 
     source .venv/Scripts/activate
 
 **Install attila theme**
+
+This is not needed. All the required dependencies are already installed. This is just an example to install the theme.
 
     pip install git+https://github.com/arulrajnet/attila.git@master
 

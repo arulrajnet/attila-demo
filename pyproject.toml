@@ -20,19 +20,20 @@ keywords = [
 ]
 
 dependencies = [
-    "cssmin == 0.2.0",
-    "jsmin == 3.0.1",
-    "pelican == 4.9.1",
+    "pelican == 4.10.2",
+    "pelican-image-process == 3.0.4",
+    "pelican-minify == 2.0.0",
     "pelican-neighbors == 1.2.0",
     "pelican-related-posts == 1.0.0",
     "pelican-seo == 1.2.2",
-    "pelican-sitemap == 1.1.0",
-    "pelican-webassets == 2.0.0",
+    "pelican-sitemap == 1.2.0",
+    "pelican-webassets == 2.1.0",
     "markdown == 3.7",
     "ghp-import == 2.1.0",
     "invoke == 2.2.0",
     "pysvg == 0.2.2",
     "attila@git+https://github.com/arulrajnet/attila#egg=master",
+    "pelican-obsidian@git+https://github.com/jonathan-s/pelican-obsidian#egg=main",
 ]
 
 [tool.setuptools]
