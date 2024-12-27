@@ -1,0 +1,17 @@
+version: '3.8'
+services:
+  devcontainer:
+    image: arulrajnet/vscode-pelican-devcontainer:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        VARIANT: 3.12
+    volumes:
+      - ..:/workspace:cached
+      # Softlink is not working. So mounted from actual location
+      - ~/Dropbox/workspace/ubuntu_home/.aws:/root/.aws:cached
+      - ~/Dropbox/workspace/ubuntu_home/.ssh:/root/.ssh:cached
+      - ~/Dropbox/workspace/ubuntu_home/.gitconfig:/root/.gitconfig:cached
+      - ~/Dropbox/workspace/ubuntu_home/.gitignore_global:/root/.gitignore_global:cached
+    command: sleep infinity

@@ -17,7 +17,7 @@ status: published
 
 This blog post written in Obsidian and published with Pelican.
 
-Used [https://github.com/jonathan-s/pelican-obsidian](pelican-obsidian) plugin to convert Obsidian markdown to Pelican markdown.
+Used [pelican-obsidian](https://github.com/jonathan-s/pelican-obsidian) plugin to convert Obsidian markdown to Pelican markdown.
 
 Obsidian is a powerful knowledge base that works on top of a local folder of plain text Markdown files. Here are some key Markdown features in Obsidian:
 
@@ -117,12 +117,14 @@ Use backticks for inline code and triple backticks for code blocks.
 
 Multiline code block:
 
-```md
+````
 ```python
 def hello_world():
     print("Hello, World!")
 ```
-```
+````
+
+The output will be:
 
 ```python
 def hello_world():
