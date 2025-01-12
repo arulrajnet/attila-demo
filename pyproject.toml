@@ -27,6 +27,7 @@ dependencies = [
     "pelican-related-posts == 1.0.0",
     "pelican-seo == 1.2.2",
     "pelican-sitemap == 1.2.0",
+    "pelican-statistics == 1.0.0",
     "pelican-webassets == 2.1.0",
     "markdown == 3.7",
     "ghp-import == 2.1.0",

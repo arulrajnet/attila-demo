@@ -16,10 +16,8 @@ jobs:
       matrix:
         python-version: [ '3.12' ]
     steps:
-    - name: Checkout and fetch submodule
+    - name: Checkout
       uses: actions/checkout@v4
-      with:
-        submodules: recursive
     - name: Setup Python ${{ matrix.python-version }}
       uses: actions/setup-python@v5
       id: python312

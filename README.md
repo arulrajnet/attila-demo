@@ -30,12 +30,6 @@ Clone the blog
 
     git clone --depth=1 https://github.com/arulrajnet/attila-demo
     cd attila-demo
-    git submodule init
-    cd pelican-plugins
-    git pull
-    git checkout master
-    cd ..
-    git submodule update --init --recursive
 
 Install the following module for pelican inside `attila-demo` folder
 

@@ -111,10 +111,6 @@ MARKDOWN = {
 
 ### Plugins
 
-PLUGIN_PATHS = [
-  'pelican-plugins'
-]
-
 PLUGINS = [
     "pelican.plugins.image_process",
     "pelican.plugins.minify",
@@ -123,8 +119,8 @@ PLUGINS = [
     "pelican.plugins.related_posts",
     "pelican.plugins.seo",
     "pelican.plugins.sitemap",
+    "pelican.plugins.statistics",
     "pelican.plugins.webassets",
-    "post_stats",
 ]
 
 # Minify settings
